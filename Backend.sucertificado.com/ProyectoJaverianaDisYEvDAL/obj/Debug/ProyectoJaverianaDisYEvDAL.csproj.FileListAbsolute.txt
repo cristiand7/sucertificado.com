@@ -1,0 +1,9 @@
+C:\Users\jcorteso\source\repos\ProyectoJaverianaDisYEv\ProyectoJaverianaDisYEvDAL\bin\Debug\ProyectoJaverianaDisYEvDAL.dll
+C:\Users\jcorteso\source\repos\ProyectoJaverianaDisYEv\ProyectoJaverianaDisYEvDAL\bin\Debug\ProyectoJaverianaDisYEvDAL.pdb
+C:\Users\jcorteso\source\repos\ProyectoJaverianaDisYEv\ProyectoJaverianaDisYEvDAL\obj\Debug\ProyectoJaverianaDisYEvDAL.csprojAssemblyReference.cache
+C:\Users\jcorteso\source\repos\ProyectoJaverianaDisYEv\ProyectoJaverianaDisYEvDAL\obj\Debug\ProyectoJaverianaDisYEvDAL.csproj.CoreCompileInputs.cache
+C:\Users\jcorteso\source\repos\ProyectoJaverianaDisYEv\ProyectoJaverianaDisYEvDAL\obj\Debug\ProyectoJaverianaDisYEvDAL.dll
+C:\Users\jcorteso\source\repos\ProyectoJaverianaDisYEv\ProyectoJaverianaDisYEvDAL\obj\Debug\ProyectoJaverianaDisYEvDAL.pdb
+C:\Users\jcorteso\source\repos\ProyectoJaverianaDisYEv\ProyectoJaverianaDisYEvDAL\bin\Debug\ProyectoJaverianaDisYEvEntities.Entities.dll
+C:\Users\jcorteso\source\repos\ProyectoJaverianaDisYEv\ProyectoJaverianaDisYEvDAL\bin\Debug\ProyectoJaverianaDisYEvEntities.Entities.pdb
+C:\Users\jcorteso\source\repos\ProyectoJaverianaDisYEv\ProyectoJaverianaDisYEvDAL\obj\Debug\ProyectoJaverianaDisYEvDAL.csproj.CopyComplete

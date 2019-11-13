@@ -1,0 +1,6 @@
+C:\Users\jcorteso\source\repos\ProyectoJaverianaDisYEv\ProyectoJaverianaDisYEvEntities.Entities\bin\Debug\ProyectoJaverianaDisYEvEntities.Entities.dll
+C:\Users\jcorteso\source\repos\ProyectoJaverianaDisYEv\ProyectoJaverianaDisYEvEntities.Entities\bin\Debug\ProyectoJaverianaDisYEvEntities.Entities.pdb
+C:\Users\jcorteso\source\repos\ProyectoJaverianaDisYEv\ProyectoJaverianaDisYEvEntities.Entities\obj\Debug\ProyectoJaverianaDisYEvEntities.csprojAssemblyReference.cache
+C:\Users\jcorteso\source\repos\ProyectoJaverianaDisYEv\ProyectoJaverianaDisYEvEntities.Entities\obj\Debug\ProyectoJaverianaDisYEvEntities.csproj.CoreCompileInputs.cache
+C:\Users\jcorteso\source\repos\ProyectoJaverianaDisYEv\ProyectoJaverianaDisYEvEntities.Entities\obj\Debug\ProyectoJaverianaDisYEvEntities.Entities.dll
+C:\Users\jcorteso\source\repos\ProyectoJaverianaDisYEv\ProyectoJaverianaDisYEvEntities.Entities\obj\Debug\ProyectoJaverianaDisYEvEntities.Entities.pdb
