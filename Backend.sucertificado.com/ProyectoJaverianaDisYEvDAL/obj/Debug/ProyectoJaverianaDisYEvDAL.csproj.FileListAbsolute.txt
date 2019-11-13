@@ -7,3 +7,12 @@ C:\Users\jcorteso\source\repos\ProyectoJaverianaDisYEv\ProyectoJaverianaDisYEvDA
 C:\Users\jcorteso\source\repos\ProyectoJaverianaDisYEv\ProyectoJaverianaDisYEvDAL\bin\Debug\ProyectoJaverianaDisYEvEntities.Entities.dll
 C:\Users\jcorteso\source\repos\ProyectoJaverianaDisYEv\ProyectoJaverianaDisYEvDAL\bin\Debug\ProyectoJaverianaDisYEvEntities.Entities.pdb
 C:\Users\jcorteso\source\repos\ProyectoJaverianaDisYEv\ProyectoJaverianaDisYEvDAL\obj\Debug\ProyectoJaverianaDisYEvDAL.csproj.CopyComplete
+C:\Users\USUARIO\Documents\repo\Backend.sucertificado.com\ProyectoJaverianaDisYEvDAL\bin\Debug\ProyectoJaverianaDisYEvDAL.dll
+C:\Users\USUARIO\Documents\repo\Backend.sucertificado.com\ProyectoJaverianaDisYEvDAL\bin\Debug\ProyectoJaverianaDisYEvDAL.pdb
+C:\Users\USUARIO\Documents\repo\Backend.sucertificado.com\ProyectoJaverianaDisYEvDAL\bin\Debug\ProyectoJaverianaDisYEvEntities.Entities.dll
+C:\Users\USUARIO\Documents\repo\Backend.sucertificado.com\ProyectoJaverianaDisYEvDAL\bin\Debug\ProyectoJaverianaDisYEvEntities.Entities.pdb
+C:\Users\USUARIO\Documents\repo\Backend.sucertificado.com\ProyectoJaverianaDisYEvDAL\obj\Debug\ProyectoJaverianaDisYEvDAL.csprojAssemblyReference.cache
+C:\Users\USUARIO\Documents\repo\Backend.sucertificado.com\ProyectoJaverianaDisYEvDAL\obj\Debug\ProyectoJaverianaDisYEvDAL.csproj.CoreCompileInputs.cache
+C:\Users\USUARIO\Documents\repo\Backend.sucertificado.com\ProyectoJaverianaDisYEvDAL\obj\Debug\ProyectoJaverianaDisYEvDAL.csproj.CopyComplete
+C:\Users\USUARIO\Documents\repo\Backend.sucertificado.com\ProyectoJaverianaDisYEvDAL\obj\Debug\ProyectoJaverianaDisYEvDAL.dll
+C:\Users\USUARIO\Documents\repo\Backend.sucertificado.com\ProyectoJaverianaDisYEvDAL\obj\Debug\ProyectoJaverianaDisYEvDAL.pdb
