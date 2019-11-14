@@ -4,12 +4,14 @@ using System.Linq;
 using System.Net;
 using System.Net.Http;
 using System.Web.Http;
+using Microsoft.AspNetCore.Cors;
 using ProyectoJaverianaDisYEvBL.BL;
 using ProyectoJaverianaDisYEvEntities.Entities;
 using ProyectoJaverianaDisYEvEntities.Entities.Content;
 
 namespace ProyectoJaverianaDisYEv.Controllers
 {
+    [AllowCrossSiteJsonAttribute]
     [RoutePrefix("api/values")]
     public class ValuesController : ApiController
     {

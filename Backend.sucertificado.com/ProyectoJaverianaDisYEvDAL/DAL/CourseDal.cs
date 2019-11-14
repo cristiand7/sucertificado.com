@@ -13,7 +13,7 @@ namespace ProyectoJaverianaDisYEvDAL.DAL
     {
         public bool insertCourseResponse(CourseEntity course)
         {
-            SqlConnection con = new SqlConnection("Server= localhost; Database= ProyectoJaveriana; Integrated Security=True;");
+            SqlConnection con = new SqlConnection("Server=DESKTOP-UCJJCA9"+ @"\" +"SQLEXPRESS; Database= ProyectoJaveriana; Integrated Security=True;");
             int i = 0;
             string fullquery = "";
             //insert the information to the database
@@ -44,7 +44,7 @@ namespace ProyectoJaverianaDisYEvDAL.DAL
         {
             List<CourseEntity> Responses = new List<CourseEntity>();
             DataTable dataTable = new DataTable();
-            SqlConnection con = new SqlConnection("Server= localhost; Database= ProyectoJaveriana; Integrated Security=True;");
+            SqlConnection con = new SqlConnection("Server=DESKTOP-UCJJCA9" + @"\" + "SQLEXPRESS; Database= ProyectoJaveriana; Integrated Security=True;");
             int i = 0;
             //insert the information to the database
             StringBuilder stringquery = new StringBuilder();
