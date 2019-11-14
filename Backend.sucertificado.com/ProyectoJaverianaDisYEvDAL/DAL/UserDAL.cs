@@ -15,8 +15,7 @@ namespace ProyectoJaverianaDisYEvDAL.DAL
         public UserEntity LoginUser(string username,string password)
         {
             DataTable dataTable = new DataTable();
-            SqlConnection con = new SqlConnection("Server= localhost; Database= ProyectoJaveriana; Integrated Security=True;");
-            int i = 0;
+            SqlConnection con = new SqlConnection("Server= arquisqlserver.database.windows.net; Database= arquitectura;User Id=arquisqlserver;Password = arquitectura2019!;"); int i = 0;
             //insert the information to the database
             StringBuilder stringquery = new StringBuilder();
             stringquery.Append("select * from Persona ");
@@ -61,8 +60,7 @@ namespace ProyectoJaverianaDisYEvDAL.DAL
         public UserEntity GetUser(string username, string Documento)
         {
             DataTable dataTable = new DataTable();
-            SqlConnection con = new SqlConnection("Server= localhost; Database= ProyectoJaveriana; Integrated Security=True;");
-            int i = 0;
+            SqlConnection con = new SqlConnection("Server= arquisqlserver.database.windows.net; Database= arquitectura;User Id=arquisqlserver;Password = arquitectura2019!;"); int i = 0;
             //insert the information to the database
             StringBuilder stringquery = new StringBuilder();
             stringquery.Append("select * from Persona ");

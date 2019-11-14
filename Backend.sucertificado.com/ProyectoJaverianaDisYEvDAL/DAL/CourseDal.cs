@@ -13,7 +13,7 @@ namespace ProyectoJaverianaDisYEvDAL.DAL
     {
         public bool insertCourseResponse(CourseEntity course)
         {
-            SqlConnection con = new SqlConnection("Server=DESKTOP-UCJJCA9"+ @"\" +"SQLEXPRESS; Database= ProyectoJaveriana; Integrated Security=True;");
+            SqlConnection con = new SqlConnection("Server= arquisqlserver.database.windows.net; Database= arquitectura;User Id=arquisqlserver;Password = arquitectura2019!;");
             int i = 0;
             string fullquery = "";
             //insert the information to the database
@@ -44,8 +44,7 @@ namespace ProyectoJaverianaDisYEvDAL.DAL
         {
             List<CourseEntity> Responses = new List<CourseEntity>();
             DataTable dataTable = new DataTable();
-            SqlConnection con = new SqlConnection("Server=DESKTOP-UCJJCA9" + @"\" + "SQLEXPRESS; Database= ProyectoJaveriana; Integrated Security=True;");
-            int i = 0;
+            SqlConnection con = new SqlConnection("Server= arquisqlserver.database.windows.net; Database= arquitectura;User Id=arquisqlserver;Password = arquitectura2019!;"); int i = 0;
             //insert the information to the database
             StringBuilder stringquery = new StringBuilder();
             stringquery.Append("select * from Curso ");
@@ -82,8 +81,7 @@ namespace ProyectoJaverianaDisYEvDAL.DAL
         {
             List<CourseEntity> Responses = new List<CourseEntity>();
             DataTable dataTable = new DataTable();
-            SqlConnection con = new SqlConnection("Server= localhost; Database= ProyectoJaveriana; Integrated Security=True;");
-            int i = 0;
+            SqlConnection con = new SqlConnection("Server= arquisqlserver.database.windows.net; Database= arquitectura;User Id=arquisqlserver;Password = arquitectura2019!;"); int i = 0;
             //insert the information to the database
             StringBuilder stringquery = new StringBuilder();
             stringquery.Append("select * from Curso ");
@@ -122,8 +120,7 @@ namespace ProyectoJaverianaDisYEvDAL.DAL
         public CourseEntity GetCourse(string nombreCurso, string areaCurso)
         {
             DataTable dataTable = new DataTable();
-            SqlConnection con = new SqlConnection("Server= localhost; Database= ProyectoJaveriana; Integrated Security=True;");
-            int i = 0;
+            SqlConnection con = new SqlConnection("Server= arquisqlserver.database.windows.net; Database= arquitectura;User Id=arquisqlserver;Password = arquitectura2019!;"); int i = 0;
             //insert the information to the database
             StringBuilder stringquery = new StringBuilder();
             stringquery.Append("select * from Curso ");
@@ -163,8 +160,7 @@ namespace ProyectoJaverianaDisYEvDAL.DAL
         public bool RealizarPago(UserEntity user,CourseEntity courseS)
         {
             DataTable dataTable = new DataTable();
-            SqlConnection con = new SqlConnection("Server= localhost; Database= ProyectoJaveriana; Integrated Security=True;");
-            int i = 0;
+            SqlConnection con = new SqlConnection("Server= arquisqlserver.database.windows.net; Database= arquitectura;User Id=arquisqlserver;Password = arquitectura2019!;"); int i = 0;
             //insert the information to the database
             StringBuilder stringquery = new StringBuilder();
             stringquery.Append("insert into Pago (IdPersona,IdCurso,EstadoPago) values");
@@ -198,9 +194,8 @@ namespace ProyectoJaverianaDisYEvDAL.DAL
         public bool VerificaPago(UserEntity user, CourseEntity courseS)
         {
             DataTable dataTable = new DataTable();
-            SqlConnection con = new SqlConnection("Server= localhost; Database= ProyectoJaveriana; Integrated Security=True;");
-            int i = 0;
-            //insert the information to the database
+            SqlConnection con = new SqlConnection("Server= arquisqlserver.database.windows.net; Database= arquitectura;User Id=arquisqlserver;Password = arquitectura2019!;"); int i = 0;
+           //insert the information to the database
             StringBuilder stringquery = new StringBuilder();
             stringquery.Append("select * from Pago ");
             stringquery.Append("where IdPersona= " + user.IdPersona + "");

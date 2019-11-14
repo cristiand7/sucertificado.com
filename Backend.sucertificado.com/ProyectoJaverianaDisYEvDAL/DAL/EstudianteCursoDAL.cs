@@ -14,7 +14,7 @@ namespace ProyectoJaverianaDisYEvDAL.DAL
         public bool HacerCita(UserEntity user, CourseEntity courseS,string fechapresentacion)
         {
             DataTable dataTable = new DataTable();
-            SqlConnection con = new SqlConnection("Server= localhost; Database= ProyectoJaveriana; Integrated Security=True;");
+            SqlConnection con = new SqlConnection("Server= arquisqlserver.database.windows.net; Database= arquitectura;User Id=arquisqlserver;Password = arquitectura2019!;");
             int i = 0;
             //insert the information to the database
             StringBuilder stringquery = new StringBuilder();
@@ -51,7 +51,7 @@ namespace ProyectoJaverianaDisYEvDAL.DAL
         public bool GuardarCalificacion(UserEntity user, CourseEntity courseS, double Puntaje)
         {
             DataTable dataTable = new DataTable();
-            SqlConnection con = new SqlConnection("Server= localhost; Database= ProyectoJaveriana; Integrated Security=True;");
+            SqlConnection con = new SqlConnection("Server= arquisqlserver.database.windows.net; Database= arquitectura;User Id=arquisqlserver;Password = arquitectura2019!;");
             int i = 0;
             //insert the information to the database
             StringBuilder stringquery = new StringBuilder();
@@ -107,7 +107,7 @@ namespace ProyectoJaverianaDisYEvDAL.DAL
 
         public bool AfiliarEstudianteacurso(UserEntity user, CourseEntity courseS)
         {
-            SqlConnection con = new SqlConnection("Server= localhost; Database= ProyectoJaveriana; Integrated Security=True;");
+            SqlConnection con = new SqlConnection("Server= arquisqlserver.database.windows.net; Database= arquitectura;User Id=arquisqlserver;Password = arquitectura2019!;");
             int i = 0;
             string fullquery = "";
             //insert the information to the database
