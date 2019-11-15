@@ -1,4 +1,5 @@
 import { Component } from '@angular/core';
+import { UsuarioService } from './service/usuario.service';
 
 @Component({
   selector: 'app-root',
@@ -6,5 +7,16 @@ import { Component } from '@angular/core';
   styleUrls: ['./app.component.css']
 })
 export class AppComponent {
+
+
   title = 'SuCertificado';
+  constructor(public service: UsuarioService) { }
+
+  ngOnInit() {
+  }
+
+
+  logout() {
+    this.service.logout();
+  }
 }

@@ -155,8 +155,9 @@ input,textarea,select,.list,.myselection {
 }
  
 button[type='submit'] {
+    margin-left: 20%;
     margin-top: 10px;
-    width: calc(100% - 200px);
+    width: calc(50% - 100px);
 }
 
 .btnCategorias{

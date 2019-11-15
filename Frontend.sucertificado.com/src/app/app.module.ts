@@ -12,12 +12,16 @@ import { MatButtonModule } from '@angular/material/button';
 
 import {MatCardModule} from '@angular/material/card';
 import {MatGridListModule} from '@angular/material/grid-list';
+import { LoginComponent } from './login/login.component';
+import { UsuarioService } from './service/usuario.service';
+import { FormsModule } from '@angular/forms';
 @NgModule({
   declarations: [
     AppComponent,
     ExamenFormComponent,
     CatalogoComponent,
-    ComprasComponent
+    ComprasComponent,
+    LoginComponent
   ],
   imports: [
     BrowserModule,
@@ -25,10 +29,11 @@ import {MatGridListModule} from '@angular/material/grid-list';
     HttpClientModule  ,
     MatCardModule,
     MatGridListModule,
-    MatButtonModule
+    MatButtonModule,
+    FormsModule
     
   ],
-  providers: [ExamenService],  
+  providers: [ExamenService, UsuarioService],  
   bootstrap: [AppComponent]
 })
 export class AppModule { }

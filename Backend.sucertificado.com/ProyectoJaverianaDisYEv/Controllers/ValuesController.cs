@@ -3,6 +3,7 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Net;
 using System.Net.Http;
+using System.Web;
 using System.Web.Http;
 using Microsoft.AspNetCore.Cors;
 using ProyectoJaverianaDisYEvBL.BL;
@@ -11,6 +12,7 @@ using ProyectoJaverianaDisYEvEntities.Entities.Content;
 
 namespace ProyectoJaverianaDisYEv.Controllers
 {
+   
     [AllowCrossSiteJsonAttribute]
     [RoutePrefix("api/values")]
     public class ValuesController : ApiController
@@ -71,11 +73,14 @@ namespace ProyectoJaverianaDisYEv.Controllers
             return operation.CreateCourse(curso);
         }
         [HttpPost]
+        [AllowCrossSiteJsonAttribute]
         [ActionName("RealizarPago")]
         [Route("RealizarPago")]
         public bool RealizarPago([FromBody] MakePaymentEntity payment)
         {
             MainLogicBL operation = new MainLogicBL();
+            HttpContext.Current.Response.AddHeader("Access-Control-Allow-Origin", "*");
+
             return operation.RealizarPago(payment);
         }
         [HttpPost]
@@ -123,6 +128,7 @@ namespace ProyectoJaverianaDisYEv.Controllers
         }
 
         [HttpPost]
+        [AllowCrossSiteJsonAttribute]
         [ActionName("AfiliarEstudianteAcurso")]
         [Route("AfiliarEstudianteAcurso")]
         public bool AfiliarEstudianteAcurso(AfiliateStudentCourseEntity estudiantecurso)

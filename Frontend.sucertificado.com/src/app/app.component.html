@@ -7,9 +7,17 @@
     <div class="row-10">
       <br><br>
       <h1 class="conftitle">SuCertificado.com</h1>
+      {{service.getUser()}}
     </div>
-  </div>
 
+  </div>
+  
+  <div class="row-10">
+      <br/>
+      <br/>
+      <br/><br/><br/><br/>    ¿Aún no tienes cuenta?
+<a >Regístrate </a>
+  </div>
 </div>
 
 <nav class="navbar navbar-dark bg-dark">
@@ -20,13 +28,19 @@
     <div class="col">
       <a  [routerLink]="['/examen']"  class="navbar-brand">Examen</a>
      </div>
+     <div class="col">
+        <a  [routerLink]="['/login']"  class="navbar-brand">Login
+        </a>
+       </div>
   </div>
 </nav>
 
 <div class="row">
   <div class="col-1"></div>
   <div class="col-10 margintop">
+   
     <router-outlet></router-outlet>
+    
   </div>
   <div class="col-1"></div>
 </div>
