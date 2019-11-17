@@ -1,4 +1,4 @@
-import { Injectable } from '@angular/core';
+import { Injectable, EventEmitter } from '@angular/core';
 import { HttpClient, HttpHeaders } from '@angular/common/http';
 import { Usuario } from '../modelo/usuario';
 import { Tarjeta } from '../modelo/tarjeta';
@@ -6,85 +6,85 @@ import { Utils } from '../share/utils';
 
 @Injectable()
 export class UsuarioService {
-  private URL_LOGIN: string=Utils.URL_BACKEND+'/api/values/LoginUser';
+  private URL_LOGIN: string = Utils.URL_BACKEND + '/api/values/LoginUser';
 
-  usuario:string;
-  rol="";
-  authenticated: boolean;
+  dataStr = new EventEmitter();
+  usuario: string;
+  rol = "";
+  authenticated: boolean = false;
   constructor(
     private http: HttpClient
   ) {
-   }
+  }
 
   // findAll(): Observable<Usuario[]>{
-    //  return this.http.get<Usuario[]>('http://localhost:8080/usuario')
+  //  return this.http.get<Usuario[]>('http://localhost:8080/usuario')
   // }
-   findById(id:number){
+  findById(id: number) {
 
   }
-  findUser(){
-      return this.http.get<Usuario>('http://localhost:8080/usuario/now',{ 
-        headers: {
-          'Content-Type': 'application/json'
-      },
-        withCredentials: true}
-      , );
-    
-  }
-   addUsuario(usuario: Usuario){
-    return this.http.post
-    ('http://localhost:8080/usuario/add',usuario,{ 
+  findUser() {
+    return this.http.get<Usuario>('http://localhost:8080/usuario/now', {
       headers: {
         'Content-Type': 'application/json'
-    },
-      withCredentials: true}
-    , );
-   }
-   editUsuario(usuario: Usuario){
-    //this.usuarios[usuario.idUsuario-1]=usuario;
-   }
-   deleteUsuario(usuario: Usuario){
-    //this.usuarios.push(usuario);
-   }
- 
-   
-   authenticate(credentials, callback) {
-    
-    const headers = new HttpHeaders(credentials ? {
-              authorization : 'Basic ' + btoa(credentials.username + ':' + credentials.password)
-          } : {});
-  
-          this.http.get(this.URL_LOGIN+'?username='+credentials.username+'&password='+credentials.password).subscribe(response => {
-              if (response['name']) {
-                this.usuario=response['nombre']+'aquiui';
-                this.authenticated = true;
-                
-              } else {
-                  this.authenticated = false;
-              }
-              return callback && callback();
-          },error=>{alert('Usuario o contraseña invalidos')});
-  
-      }
+      },
+      withCredentials: true
+    }
+      , );
 
-      getUser(){
-        return this.usuario;
-      }
-
-    logout(){
-      this.usuario="";
-        this.authenticated = false;
-        this.rol="";
-        
-      }
-      addTarjeta(t:Tarjeta){
-        return this.http.post
-        ('http://localhost:8080/tarjeta/add',t,{ 
-          headers: {
-            'Content-Type': 'application/json'
+  }
+  addUsuario(usuario: Usuario) {
+    return this.http.post
+      ('http://localhost:8080/usuario/add', usuario, {
+        headers: {
+          'Content-Type': 'application/json'
         },
-          withCredentials: true}
+        withCredentials: true
+      }
+    , );
+  }
+  editUsuario(usuario: Usuario) {
+    //this.usuarios[usuario.idUsuario-1]=usuario;
+  }
+  deleteUsuario(usuario: Usuario) {
+    //this.usuarios.push(usuario);
+  }
+
+
+  authenticate(credentials) {
+
+    return this.http.get(this.URL_LOGIN + '?username=' + credentials.username + '&password=' + credentials.password);
+  }
+
+  getUser() {
+    return this.usuario;
+  }
+
+  setUser(usuario: string) {
+    this.usuario = usuario;
+    this.authenticated = true;
+    this.dataStr.emit(this.usuario);
+  }
+  
+  isAuthenticated(){
+    return this.authenticated;
+  }
+
+  logout() {
+    this.usuario = "";
+    this.authenticated = false;
+    this.rol = "";
+  }
+
+  addTarjeta(t: Tarjeta) {
+    return this.http.post
+      ('http://localhost:8080/tarjeta/add', t, {
+        headers: {
+          'Content-Type': 'application/json'
+        },
+        withCredentials: true
+      }
         , );
-       }
+  }
 
 }

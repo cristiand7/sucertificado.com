@@ -2,7 +2,7 @@ import { Tarjeta } from "./tarjeta";
 export class Usuario {
     idUsuario: number;
     nombre: string;
-    usuariou: string;
+    usuario: string;
     clave: string;
     email: string;
     telefono: number;

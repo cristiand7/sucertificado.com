@@ -10,13 +10,27 @@ export class AppComponent {
 
 
   title = 'SuCertificado';
-  constructor(public service: UsuarioService) { }
+  usuario: String;
+  authenticated: boolean = false;
+
+  constructor(private _eventEmiter: UsuarioService) { }
 
   ngOnInit() {
+    this.userLogged();
   }
 
 
+  userLogged() {
+
+    this._eventEmiter.dataStr.subscribe(data => {
+      this.usuario = data;
+      this.authenticated=true;
+    });
+  }
+
   logout() {
-    this.service.logout();
+    this.usuario = "";
+    this.authenticated = false;
+    this._eventEmiter.logout();
   }
 }
