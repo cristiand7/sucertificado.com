@@ -28,6 +28,13 @@ namespace ProyectoJaverianaDisYEvBL.BL
             return questionDAL.Getstudentquestions(course, area,Description);
 
         }
+        public List<QuestionEntity> GetQuestionsByExamID(int ExamID,int numpreguntas)
+        {
+            QuestionDAL questionDAL = new QuestionDAL();
+
+            return questionDAL.GetQuestionsByExamID(ExamID, numpreguntas);
+        }
+
 
     }
 }

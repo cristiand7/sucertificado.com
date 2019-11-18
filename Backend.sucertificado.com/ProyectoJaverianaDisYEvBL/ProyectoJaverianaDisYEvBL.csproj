@@ -43,9 +43,11 @@
   <ItemGroup>
     <Compile Include="BL\CourseBL.cs" />
     <Compile Include="BL\EstudianteCursoBL.cs" />
+    <Compile Include="BL\ExamBL.cs" />
     <Compile Include="BL\MainLogicBL.cs" />
     <Compile Include="BL\QuestionBL.cs" />
     <Compile Include="BL\ResponseBL.cs" />
+    <Compile Include="BL\StudenExamBL.cs" />
     <Compile Include="BL\UserBL.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>

@@ -23,15 +23,15 @@ export class LoginComponent implements OnInit {
   login() {
     this.service.authenticate(this.credentials)
       .subscribe(response => {
-        if (response['Usuario'] != undefined) {
-          this.usuario = response['Usuario'];
-          this.service.setUser(this.usuario);
-          this.router.navigate(['/catalogo'])
-        } else {
-          alert('Usuario o contraseña invalido');
-        }
+
+        console.log(response);
+        this.service.setUser(this.credentials.username);
+        this.service.setToken(response+'');
+        this.router.navigate(['/catalogo'])
+
       }, error => {
         console.log(error);
+        alert('Usuario o contraseña invalido');
       });
 
   }

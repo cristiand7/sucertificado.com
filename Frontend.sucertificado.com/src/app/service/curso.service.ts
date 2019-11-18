@@ -10,16 +10,17 @@ import { EstudianteCurso } from '../modelo/estudiante-curso';
 })
 export class CursoService {
 
-  private URL_EXAMEN: string=Utils.URL_BACKEND+'/api/values/GetAllCouses';
+  private URL_EXAMEN: string=Utils.URL_BACKEND+'/api/Courses/GetAllCouses';
 
  
-  private URL_REGISTRO: string=Utils.URL_BACKEND+'/api/values/AfiliarEstudianteAcurso';
 
-  private URL_PAGO: string=Utils.URL_BACKEND+'/api/values/RealizarPago';
+  private URL_REGISTRO: string=Utils.URL_BACKEND+'/api/exam/AfiliateStudentToExam';
+
+  private URL_PAGO: string=Utils.URL_BACKEND+'/api/exam/RealizarPago';
 
 
 
-  
+  carrito: Curso[]=[];
 
   constructor(private http: HttpClient) { }
 
@@ -29,11 +30,20 @@ export class CursoService {
 
   registro(reg: EstudianteCurso){
   
-    return this.http.post(this.URL_REGISTRO,reg);
+    return this.http.post(this.URL_REGISTRO+'/'+reg.nombreusuario+'/'+reg.nombrecurso,reg);
   }
   pago(reg: EstudianteCurso){
   
-    return this.http.post(this.URL_PAGO,reg);
+    return this.http.post(this.URL_PAGO+'/'+reg.nombreusuario+'/'+reg.nombrecurso,reg);
   }
+
+  add (curso: Curso){
+    this.carrito.push(curso);
+}
+
+getCarrito (){
+  return this.carrito;
+}
+
 
 }

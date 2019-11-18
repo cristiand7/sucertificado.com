@@ -21,7 +21,9 @@
    
   </div>
   <div *ngIf="authenticated" class="row-10">
-    {{usuario}} 
+      <br />
+      <br />
+    Hola, {{usuario}} 
   </div>
   
 
@@ -39,6 +41,11 @@
       <a [routerLink]="['/login']" class="navbar-brand">Login
       </a>
     </div>
+    
+    <div class="col" *ngIf="authenticated">
+      <a (click)="verCarrito()" class="navbar-brand">Carrito    </a>
+    </div>
+    
     <div class="col" *ngIf="authenticated">
       <a (click)="logout()"  class="navbar-brand">Salir
       </a>

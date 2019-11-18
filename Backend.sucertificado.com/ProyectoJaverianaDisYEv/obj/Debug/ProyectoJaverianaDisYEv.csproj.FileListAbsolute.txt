@@ -305,3 +305,463 @@ C:\Users\USUARIO\Documents\repo\Backend.sucertificado.com\ProyectoJaverianaDisYE
 C:\Users\USUARIO\Documents\repo\Backend.sucertificado.com\ProyectoJaverianaDisYEv\bin\System.Numerics.Vectors.xml
 C:\Users\USUARIO\Documents\repo\Backend.sucertificado.com\ProyectoJaverianaDisYEv\bin\System.Runtime.CompilerServices.Unsafe.xml
 C:\Users\USUARIO\Documents\repo\Backend.sucertificado.com\ProyectoJaverianaDisYEv\bin\System.Text.Encodings.Web.xml
+C:\Users\jcorteso\Downloads\DiseñoProyecto\sucertificado.com-master\Backend.sucertificado.com\ProyectoJaverianaDisYEv\obj\Debug\ProyectoJaverianaDisYEv.csprojAssemblyReference.cache
+C:\Users\jcorteso\Downloads\DiseñoProyecto\sucertificado.com-master\Backend.sucertificado.com\ProyectoJaverianaDisYEv\obj\Debug\ProyectoJaverianaDisYEv.csproj.CoreCompileInputs.cache
+C:\Users\jcorteso\Downloads\DiseñoProyecto\sucertificado.com-master\Backend.sucertificado.com\ProyectoJaverianaDisYEv\obj\Debug\ProyectoJaverianaDisYEv.dll
+C:\Users\jcorteso\Downloads\DiseñoProyecto\sucertificado.com-master\Backend.sucertificado.com\ProyectoJaverianaDisYEv\obj\Debug\ProyectoJaverianaDisYEv.pdb
+C:\Users\jcorteso\Downloads\DiseñoProyecto\sucertificado.com-master\Backend.sucertificado.com\ProyectoJaverianaDisYEv\bin\ProyectoJaverianaDisYEv.dll.config
+C:\Users\jcorteso\Downloads\DiseñoProyecto\sucertificado.com-master\Backend.sucertificado.com\ProyectoJaverianaDisYEv\bin\ProyectoJaverianaDisYEv.dll
+C:\Users\jcorteso\Downloads\DiseñoProyecto\sucertificado.com-master\Backend.sucertificado.com\ProyectoJaverianaDisYEv\bin\ProyectoJaverianaDisYEv.pdb
+C:\Users\jcorteso\Downloads\DiseñoProyecto\sucertificado.com-master\Backend.sucertificado.com\ProyectoJaverianaDisYEv\bin\roslyn\csc.exe
+C:\Users\jcorteso\Downloads\DiseñoProyecto\sucertificado.com-master\Backend.sucertificado.com\ProyectoJaverianaDisYEv\bin\roslyn\csc.exe.config
+C:\Users\jcorteso\Downloads\DiseñoProyecto\sucertificado.com-master\Backend.sucertificado.com\ProyectoJaverianaDisYEv\bin\roslyn\csc.rsp
+C:\Users\jcorteso\Downloads\DiseñoProyecto\sucertificado.com-master\Backend.sucertificado.com\ProyectoJaverianaDisYEv\bin\roslyn\csi.exe
+C:\Users\jcorteso\Downloads\DiseñoProyecto\sucertificado.com-master\Backend.sucertificado.com\ProyectoJaverianaDisYEv\bin\roslyn\csi.exe.config
+C:\Users\jcorteso\Downloads\DiseñoProyecto\sucertificado.com-master\Backend.sucertificado.com\ProyectoJaverianaDisYEv\bin\roslyn\csi.rsp
+C:\Users\jcorteso\Downloads\DiseñoProyecto\sucertificado.com-master\Backend.sucertificado.com\ProyectoJaverianaDisYEv\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\jcorteso\Downloads\DiseñoProyecto\sucertificado.com-master\Backend.sucertificado.com\ProyectoJaverianaDisYEv\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\jcorteso\Downloads\DiseñoProyecto\sucertificado.com-master\Backend.sucertificado.com\ProyectoJaverianaDisYEv\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\jcorteso\Downloads\DiseñoProyecto\sucertificado.com-master\Backend.sucertificado.com\ProyectoJaverianaDisYEv\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\jcorteso\Downloads\DiseñoProyecto\sucertificado.com-master\Backend.sucertificado.com\ProyectoJaverianaDisYEv\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\jcorteso\Downloads\DiseñoProyecto\sucertificado.com-master\Backend.sucertificado.com\ProyectoJaverianaDisYEv\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\jcorteso\Downloads\DiseñoProyecto\sucertificado.com-master\Backend.sucertificado.com\ProyectoJaverianaDisYEv\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\jcorteso\Downloads\DiseñoProyecto\sucertificado.com-master\Backend.sucertificado.com\ProyectoJaverianaDisYEv\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\jcorteso\Downloads\DiseñoProyecto\sucertificado.com-master\Backend.sucertificado.com\ProyectoJaverianaDisYEv\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\jcorteso\Downloads\DiseñoProyecto\sucertificado.com-master\Backend.sucertificado.com\ProyectoJaverianaDisYEv\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\jcorteso\Downloads\DiseñoProyecto\sucertificado.com-master\Backend.sucertificado.com\ProyectoJaverianaDisYEv\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\jcorteso\Downloads\DiseñoProyecto\sucertificado.com-master\Backend.sucertificado.com\ProyectoJaverianaDisYEv\bin\roslyn\System.AppContext.dll
+C:\Users\jcorteso\Downloads\DiseñoProyecto\sucertificado.com-master\Backend.sucertificado.com\ProyectoJaverianaDisYEv\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\jcorteso\Downloads\DiseñoProyecto\sucertificado.com-master\Backend.sucertificado.com\ProyectoJaverianaDisYEv\bin\roslyn\System.Console.dll
+C:\Users\jcorteso\Downloads\DiseñoProyecto\sucertificado.com-master\Backend.sucertificado.com\ProyectoJaverianaDisYEv\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\jcorteso\Downloads\DiseñoProyecto\sucertificado.com-master\Backend.sucertificado.com\ProyectoJaverianaDisYEv\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\jcorteso\Downloads\DiseñoProyecto\sucertificado.com-master\Backend.sucertificado.com\ProyectoJaverianaDisYEv\bin\roslyn\System.IO.Compression.dll
+C:\Users\jcorteso\Downloads\DiseñoProyecto\sucertificado.com-master\Backend.sucertificado.com\ProyectoJaverianaDisYEv\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\jcorteso\Downloads\DiseñoProyecto\sucertificado.com-master\Backend.sucertificado.com\ProyectoJaverianaDisYEv\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\jcorteso\Downloads\DiseñoProyecto\sucertificado.com-master\Backend.sucertificado.com\ProyectoJaverianaDisYEv\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\jcorteso\Downloads\DiseñoProyecto\sucertificado.com-master\Backend.sucertificado.com\ProyectoJaverianaDisYEv\bin\roslyn\System.IO.Pipes.dll
+C:\Users\jcorteso\Downloads\DiseñoProyecto\sucertificado.com-master\Backend.sucertificado.com\ProyectoJaverianaDisYEv\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\jcorteso\Downloads\DiseñoProyecto\sucertificado.com-master\Backend.sucertificado.com\ProyectoJaverianaDisYEv\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\jcorteso\Downloads\DiseñoProyecto\sucertificado.com-master\Backend.sucertificado.com\ProyectoJaverianaDisYEv\bin\roslyn\System.Security.Claims.dll
+C:\Users\jcorteso\Downloads\DiseñoProyecto\sucertificado.com-master\Backend.sucertificado.com\ProyectoJaverianaDisYEv\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\jcorteso\Downloads\DiseñoProyecto\sucertificado.com-master\Backend.sucertificado.com\ProyectoJaverianaDisYEv\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\jcorteso\Downloads\DiseñoProyecto\sucertificado.com-master\Backend.sucertificado.com\ProyectoJaverianaDisYEv\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\jcorteso\Downloads\DiseñoProyecto\sucertificado.com-master\Backend.sucertificado.com\ProyectoJaverianaDisYEv\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\jcorteso\Downloads\DiseñoProyecto\sucertificado.com-master\Backend.sucertificado.com\ProyectoJaverianaDisYEv\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\jcorteso\Downloads\DiseñoProyecto\sucertificado.com-master\Backend.sucertificado.com\ProyectoJaverianaDisYEv\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\jcorteso\Downloads\DiseñoProyecto\sucertificado.com-master\Backend.sucertificado.com\ProyectoJaverianaDisYEv\bin\roslyn\System.ValueTuple.dll
+C:\Users\jcorteso\Downloads\DiseñoProyecto\sucertificado.com-master\Backend.sucertificado.com\ProyectoJaverianaDisYEv\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\jcorteso\Downloads\DiseñoProyecto\sucertificado.com-master\Backend.sucertificado.com\ProyectoJaverianaDisYEv\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\jcorteso\Downloads\DiseñoProyecto\sucertificado.com-master\Backend.sucertificado.com\ProyectoJaverianaDisYEv\bin\roslyn\System.Xml.XPath.dll
+C:\Users\jcorteso\Downloads\DiseñoProyecto\sucertificado.com-master\Backend.sucertificado.com\ProyectoJaverianaDisYEv\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\jcorteso\Downloads\DiseñoProyecto\sucertificado.com-master\Backend.sucertificado.com\ProyectoJaverianaDisYEv\bin\roslyn\vbc.exe
+C:\Users\jcorteso\Downloads\DiseñoProyecto\sucertificado.com-master\Backend.sucertificado.com\ProyectoJaverianaDisYEv\bin\roslyn\vbc.exe.config
+C:\Users\jcorteso\Downloads\DiseñoProyecto\sucertificado.com-master\Backend.sucertificado.com\ProyectoJaverianaDisYEv\bin\roslyn\vbc.rsp
+C:\Users\jcorteso\Downloads\DiseñoProyecto\sucertificado.com-master\Backend.sucertificado.com\ProyectoJaverianaDisYEv\bin\roslyn\VBCSCompiler.exe
+C:\Users\jcorteso\Downloads\DiseñoProyecto\sucertificado.com-master\Backend.sucertificado.com\ProyectoJaverianaDisYEv\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\jcorteso\Downloads\DiseñoProyecto\sucertificado.com-master\Backend.sucertificado.com\ProyectoJaverianaDisYEv\bin\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\jcorteso\Downloads\DiseñoProyecto\sucertificado.com-master\Backend.sucertificado.com\ProyectoJaverianaDisYEv\bin\Microsoft.Win32.Primitives.dll
+C:\Users\jcorteso\Downloads\DiseñoProyecto\sucertificado.com-master\Backend.sucertificado.com\ProyectoJaverianaDisYEv\bin\netstandard.dll
+C:\Users\jcorteso\Downloads\DiseñoProyecto\sucertificado.com-master\Backend.sucertificado.com\ProyectoJaverianaDisYEv\bin\System.AppContext.dll
+C:\Users\jcorteso\Downloads\DiseñoProyecto\sucertificado.com-master\Backend.sucertificado.com\ProyectoJaverianaDisYEv\bin\System.Collections.Concurrent.dll
+C:\Users\jcorteso\Downloads\DiseñoProyecto\sucertificado.com-master\Backend.sucertificado.com\ProyectoJaverianaDisYEv\bin\System.Collections.dll
+C:\Users\jcorteso\Downloads\DiseñoProyecto\sucertificado.com-master\Backend.sucertificado.com\ProyectoJaverianaDisYEv\bin\System.Collections.NonGeneric.dll
+C:\Users\jcorteso\Downloads\DiseñoProyecto\sucertificado.com-master\Backend.sucertificado.com\ProyectoJaverianaDisYEv\bin\System.Collections.Specialized.dll
+C:\Users\jcorteso\Downloads\DiseñoProyecto\sucertificado.com-master\Backend.sucertificado.com\ProyectoJaverianaDisYEv\bin\System.ComponentModel.dll
+C:\Users\jcorteso\Downloads\DiseñoProyecto\sucertificado.com-master\Backend.sucertificado.com\ProyectoJaverianaDisYEv\bin\System.ComponentModel.EventBasedAsync.dll
+C:\Users\jcorteso\Downloads\DiseñoProyecto\sucertificado.com-master\Backend.sucertificado.com\ProyectoJaverianaDisYEv\bin\System.ComponentModel.Primitives.dll
+C:\Users\jcorteso\Downloads\DiseñoProyecto\sucertificado.com-master\Backend.sucertificado.com\ProyectoJaverianaDisYEv\bin\System.ComponentModel.TypeConverter.dll
+C:\Users\jcorteso\Downloads\DiseñoProyecto\sucertificado.com-master\Backend.sucertificado.com\ProyectoJaverianaDisYEv\bin\System.Console.dll
+C:\Users\jcorteso\Downloads\DiseñoProyecto\sucertificado.com-master\Backend.sucertificado.com\ProyectoJaverianaDisYEv\bin\System.Data.Common.dll
+C:\Users\jcorteso\Downloads\DiseñoProyecto\sucertificado.com-master\Backend.sucertificado.com\ProyectoJaverianaDisYEv\bin\System.Diagnostics.Contracts.dll
+C:\Users\jcorteso\Downloads\DiseñoProyecto\sucertificado.com-master\Backend.sucertificado.com\ProyectoJaverianaDisYEv\bin\System.Diagnostics.Debug.dll
+C:\Users\jcorteso\Downloads\DiseñoProyecto\sucertificado.com-master\Backend.sucertificado.com\ProyectoJaverianaDisYEv\bin\System.Diagnostics.FileVersionInfo.dll
+C:\Users\jcorteso\Downloads\DiseñoProyecto\sucertificado.com-master\Backend.sucertificado.com\ProyectoJaverianaDisYEv\bin\System.Diagnostics.Process.dll
+C:\Users\jcorteso\Downloads\DiseñoProyecto\sucertificado.com-master\Backend.sucertificado.com\ProyectoJaverianaDisYEv\bin\System.Diagnostics.StackTrace.dll
+C:\Users\jcorteso\Downloads\DiseñoProyecto\sucertificado.com-master\Backend.sucertificado.com\ProyectoJaverianaDisYEv\bin\System.Diagnostics.TextWriterTraceListener.dll
+C:\Users\jcorteso\Downloads\DiseñoProyecto\sucertificado.com-master\Backend.sucertificado.com\ProyectoJaverianaDisYEv\bin\System.Diagnostics.Tools.dll
+C:\Users\jcorteso\Downloads\DiseñoProyecto\sucertificado.com-master\Backend.sucertificado.com\ProyectoJaverianaDisYEv\bin\System.Diagnostics.TraceSource.dll
+C:\Users\jcorteso\Downloads\DiseñoProyecto\sucertificado.com-master\Backend.sucertificado.com\ProyectoJaverianaDisYEv\bin\System.Diagnostics.Tracing.dll
+C:\Users\jcorteso\Downloads\DiseñoProyecto\sucertificado.com-master\Backend.sucertificado.com\ProyectoJaverianaDisYEv\bin\System.Drawing.Primitives.dll
+C:\Users\jcorteso\Downloads\DiseñoProyecto\sucertificado.com-master\Backend.sucertificado.com\ProyectoJaverianaDisYEv\bin\System.Dynamic.Runtime.dll
+C:\Users\jcorteso\Downloads\DiseñoProyecto\sucertificado.com-master\Backend.sucertificado.com\ProyectoJaverianaDisYEv\bin\System.Globalization.Calendars.dll
+C:\Users\jcorteso\Downloads\DiseñoProyecto\sucertificado.com-master\Backend.sucertificado.com\ProyectoJaverianaDisYEv\bin\System.Globalization.dll
+C:\Users\jcorteso\Downloads\DiseñoProyecto\sucertificado.com-master\Backend.sucertificado.com\ProyectoJaverianaDisYEv\bin\System.Globalization.Extensions.dll
+C:\Users\jcorteso\Downloads\DiseñoProyecto\sucertificado.com-master\Backend.sucertificado.com\ProyectoJaverianaDisYEv\bin\System.IO.Compression.dll
+C:\Users\jcorteso\Downloads\DiseñoProyecto\sucertificado.com-master\Backend.sucertificado.com\ProyectoJaverianaDisYEv\bin\System.IO.Compression.ZipFile.dll
+C:\Users\jcorteso\Downloads\DiseñoProyecto\sucertificado.com-master\Backend.sucertificado.com\ProyectoJaverianaDisYEv\bin\System.IO.dll
+C:\Users\jcorteso\Downloads\DiseñoProyecto\sucertificado.com-master\Backend.sucertificado.com\ProyectoJaverianaDisYEv\bin\System.IO.FileSystem.dll
+C:\Users\jcorteso\Downloads\DiseñoProyecto\sucertificado.com-master\Backend.sucertificado.com\ProyectoJaverianaDisYEv\bin\System.IO.FileSystem.DriveInfo.dll
+C:\Users\jcorteso\Downloads\DiseñoProyecto\sucertificado.com-master\Backend.sucertificado.com\ProyectoJaverianaDisYEv\bin\System.IO.FileSystem.Primitives.dll
+C:\Users\jcorteso\Downloads\DiseñoProyecto\sucertificado.com-master\Backend.sucertificado.com\ProyectoJaverianaDisYEv\bin\System.IO.FileSystem.Watcher.dll
+C:\Users\jcorteso\Downloads\DiseñoProyecto\sucertificado.com-master\Backend.sucertificado.com\ProyectoJaverianaDisYEv\bin\System.IO.IsolatedStorage.dll
+C:\Users\jcorteso\Downloads\DiseñoProyecto\sucertificado.com-master\Backend.sucertificado.com\ProyectoJaverianaDisYEv\bin\System.IO.MemoryMappedFiles.dll
+C:\Users\jcorteso\Downloads\DiseñoProyecto\sucertificado.com-master\Backend.sucertificado.com\ProyectoJaverianaDisYEv\bin\System.IO.Pipes.dll
+C:\Users\jcorteso\Downloads\DiseñoProyecto\sucertificado.com-master\Backend.sucertificado.com\ProyectoJaverianaDisYEv\bin\System.IO.UnmanagedMemoryStream.dll
+C:\Users\jcorteso\Downloads\DiseñoProyecto\sucertificado.com-master\Backend.sucertificado.com\ProyectoJaverianaDisYEv\bin\System.Linq.dll
+C:\Users\jcorteso\Downloads\DiseñoProyecto\sucertificado.com-master\Backend.sucertificado.com\ProyectoJaverianaDisYEv\bin\System.Linq.Expressions.dll
+C:\Users\jcorteso\Downloads\DiseñoProyecto\sucertificado.com-master\Backend.sucertificado.com\ProyectoJaverianaDisYEv\bin\System.Linq.Parallel.dll
+C:\Users\jcorteso\Downloads\DiseñoProyecto\sucertificado.com-master\Backend.sucertificado.com\ProyectoJaverianaDisYEv\bin\System.Linq.Queryable.dll
+C:\Users\jcorteso\Downloads\DiseñoProyecto\sucertificado.com-master\Backend.sucertificado.com\ProyectoJaverianaDisYEv\bin\System.Net.Http.dll
+C:\Users\jcorteso\Downloads\DiseñoProyecto\sucertificado.com-master\Backend.sucertificado.com\ProyectoJaverianaDisYEv\bin\System.Net.NameResolution.dll
+C:\Users\jcorteso\Downloads\DiseñoProyecto\sucertificado.com-master\Backend.sucertificado.com\ProyectoJaverianaDisYEv\bin\System.Net.NetworkInformation.dll
+C:\Users\jcorteso\Downloads\DiseñoProyecto\sucertificado.com-master\Backend.sucertificado.com\ProyectoJaverianaDisYEv\bin\System.Net.Ping.dll
+C:\Users\jcorteso\Downloads\DiseñoProyecto\sucertificado.com-master\Backend.sucertificado.com\ProyectoJaverianaDisYEv\bin\System.Net.Primitives.dll
+C:\Users\jcorteso\Downloads\DiseñoProyecto\sucertificado.com-master\Backend.sucertificado.com\ProyectoJaverianaDisYEv\bin\System.Net.Requests.dll
+C:\Users\jcorteso\Downloads\DiseñoProyecto\sucertificado.com-master\Backend.sucertificado.com\ProyectoJaverianaDisYEv\bin\System.Net.Security.dll
+C:\Users\jcorteso\Downloads\DiseñoProyecto\sucertificado.com-master\Backend.sucertificado.com\ProyectoJaverianaDisYEv\bin\System.Net.Sockets.dll
+C:\Users\jcorteso\Downloads\DiseñoProyecto\sucertificado.com-master\Backend.sucertificado.com\ProyectoJaverianaDisYEv\bin\System.Net.WebHeaderCollection.dll
+C:\Users\jcorteso\Downloads\DiseñoProyecto\sucertificado.com-master\Backend.sucertificado.com\ProyectoJaverianaDisYEv\bin\System.Net.WebSockets.Client.dll
+C:\Users\jcorteso\Downloads\DiseñoProyecto\sucertificado.com-master\Backend.sucertificado.com\ProyectoJaverianaDisYEv\bin\System.Net.WebSockets.dll
+C:\Users\jcorteso\Downloads\DiseñoProyecto\sucertificado.com-master\Backend.sucertificado.com\ProyectoJaverianaDisYEv\bin\System.ObjectModel.dll
+C:\Users\jcorteso\Downloads\DiseñoProyecto\sucertificado.com-master\Backend.sucertificado.com\ProyectoJaverianaDisYEv\bin\System.Reflection.dll
+C:\Users\jcorteso\Downloads\DiseñoProyecto\sucertificado.com-master\Backend.sucertificado.com\ProyectoJaverianaDisYEv\bin\System.Reflection.Extensions.dll
+C:\Users\jcorteso\Downloads\DiseñoProyecto\sucertificado.com-master\Backend.sucertificado.com\ProyectoJaverianaDisYEv\bin\System.Reflection.Primitives.dll
+C:\Users\jcorteso\Downloads\DiseñoProyecto\sucertificado.com-master\Backend.sucertificado.com\ProyectoJaverianaDisYEv\bin\System.Resources.Reader.dll
+C:\Users\jcorteso\Downloads\DiseñoProyecto\sucertificado.com-master\Backend.sucertificado.com\ProyectoJaverianaDisYEv\bin\System.Resources.ResourceManager.dll
+C:\Users\jcorteso\Downloads\DiseñoProyecto\sucertificado.com-master\Backend.sucertificado.com\ProyectoJaverianaDisYEv\bin\System.Resources.Writer.dll
+C:\Users\jcorteso\Downloads\DiseñoProyecto\sucertificado.com-master\Backend.sucertificado.com\ProyectoJaverianaDisYEv\bin\System.Runtime.CompilerServices.VisualC.dll
+C:\Users\jcorteso\Downloads\DiseñoProyecto\sucertificado.com-master\Backend.sucertificado.com\ProyectoJaverianaDisYEv\bin\System.Runtime.dll
+C:\Users\jcorteso\Downloads\DiseñoProyecto\sucertificado.com-master\Backend.sucertificado.com\ProyectoJaverianaDisYEv\bin\System.Runtime.Extensions.dll
+C:\Users\jcorteso\Downloads\DiseñoProyecto\sucertificado.com-master\Backend.sucertificado.com\ProyectoJaverianaDisYEv\bin\System.Runtime.Handles.dll
+C:\Users\jcorteso\Downloads\DiseñoProyecto\sucertificado.com-master\Backend.sucertificado.com\ProyectoJaverianaDisYEv\bin\System.Runtime.InteropServices.dll
+C:\Users\jcorteso\Downloads\DiseñoProyecto\sucertificado.com-master\Backend.sucertificado.com\ProyectoJaverianaDisYEv\bin\System.Runtime.Numerics.dll
+C:\Users\jcorteso\Downloads\DiseñoProyecto\sucertificado.com-master\Backend.sucertificado.com\ProyectoJaverianaDisYEv\bin\System.Runtime.Serialization.Formatters.dll
+C:\Users\jcorteso\Downloads\DiseñoProyecto\sucertificado.com-master\Backend.sucertificado.com\ProyectoJaverianaDisYEv\bin\System.Runtime.Serialization.Json.dll
+C:\Users\jcorteso\Downloads\DiseñoProyecto\sucertificado.com-master\Backend.sucertificado.com\ProyectoJaverianaDisYEv\bin\System.Runtime.Serialization.Primitives.dll
+C:\Users\jcorteso\Downloads\DiseñoProyecto\sucertificado.com-master\Backend.sucertificado.com\ProyectoJaverianaDisYEv\bin\System.Runtime.Serialization.Xml.dll
+C:\Users\jcorteso\Downloads\DiseñoProyecto\sucertificado.com-master\Backend.sucertificado.com\ProyectoJaverianaDisYEv\bin\System.Security.Claims.dll
+C:\Users\jcorteso\Downloads\DiseñoProyecto\sucertificado.com-master\Backend.sucertificado.com\ProyectoJaverianaDisYEv\bin\System.Security.Cryptography.Algorithms.dll
+C:\Users\jcorteso\Downloads\DiseñoProyecto\sucertificado.com-master\Backend.sucertificado.com\ProyectoJaverianaDisYEv\bin\System.Security.Cryptography.Csp.dll
+C:\Users\jcorteso\Downloads\DiseñoProyecto\sucertificado.com-master\Backend.sucertificado.com\ProyectoJaverianaDisYEv\bin\System.Security.Cryptography.Encoding.dll
+C:\Users\jcorteso\Downloads\DiseñoProyecto\sucertificado.com-master\Backend.sucertificado.com\ProyectoJaverianaDisYEv\bin\System.Security.Cryptography.Primitives.dll
+C:\Users\jcorteso\Downloads\DiseñoProyecto\sucertificado.com-master\Backend.sucertificado.com\ProyectoJaverianaDisYEv\bin\System.Security.Cryptography.X509Certificates.dll
+C:\Users\jcorteso\Downloads\DiseñoProyecto\sucertificado.com-master\Backend.sucertificado.com\ProyectoJaverianaDisYEv\bin\System.Security.Principal.dll
+C:\Users\jcorteso\Downloads\DiseñoProyecto\sucertificado.com-master\Backend.sucertificado.com\ProyectoJaverianaDisYEv\bin\System.Security.SecureString.dll
+C:\Users\jcorteso\Downloads\DiseñoProyecto\sucertificado.com-master\Backend.sucertificado.com\ProyectoJaverianaDisYEv\bin\System.Text.Encoding.dll
+C:\Users\jcorteso\Downloads\DiseñoProyecto\sucertificado.com-master\Backend.sucertificado.com\ProyectoJaverianaDisYEv\bin\System.Text.Encoding.Extensions.dll
+C:\Users\jcorteso\Downloads\DiseñoProyecto\sucertificado.com-master\Backend.sucertificado.com\ProyectoJaverianaDisYEv\bin\System.Text.RegularExpressions.dll
+C:\Users\jcorteso\Downloads\DiseñoProyecto\sucertificado.com-master\Backend.sucertificado.com\ProyectoJaverianaDisYEv\bin\System.Threading.dll
+C:\Users\jcorteso\Downloads\DiseñoProyecto\sucertificado.com-master\Backend.sucertificado.com\ProyectoJaverianaDisYEv\bin\System.Threading.Overlapped.dll
+C:\Users\jcorteso\Downloads\DiseñoProyecto\sucertificado.com-master\Backend.sucertificado.com\ProyectoJaverianaDisYEv\bin\System.Threading.Tasks.dll
+C:\Users\jcorteso\Downloads\DiseñoProyecto\sucertificado.com-master\Backend.sucertificado.com\ProyectoJaverianaDisYEv\bin\System.Threading.Tasks.Parallel.dll
+C:\Users\jcorteso\Downloads\DiseñoProyecto\sucertificado.com-master\Backend.sucertificado.com\ProyectoJaverianaDisYEv\bin\System.Threading.Thread.dll
+C:\Users\jcorteso\Downloads\DiseñoProyecto\sucertificado.com-master\Backend.sucertificado.com\ProyectoJaverianaDisYEv\bin\System.Threading.ThreadPool.dll
+C:\Users\jcorteso\Downloads\DiseñoProyecto\sucertificado.com-master\Backend.sucertificado.com\ProyectoJaverianaDisYEv\bin\System.Threading.Timer.dll
+C:\Users\jcorteso\Downloads\DiseñoProyecto\sucertificado.com-master\Backend.sucertificado.com\ProyectoJaverianaDisYEv\bin\System.ValueTuple.dll
+C:\Users\jcorteso\Downloads\DiseñoProyecto\sucertificado.com-master\Backend.sucertificado.com\ProyectoJaverianaDisYEv\bin\System.Xml.ReaderWriter.dll
+C:\Users\jcorteso\Downloads\DiseñoProyecto\sucertificado.com-master\Backend.sucertificado.com\ProyectoJaverianaDisYEv\bin\System.Xml.XDocument.dll
+C:\Users\jcorteso\Downloads\DiseñoProyecto\sucertificado.com-master\Backend.sucertificado.com\ProyectoJaverianaDisYEv\bin\System.Xml.XmlDocument.dll
+C:\Users\jcorteso\Downloads\DiseñoProyecto\sucertificado.com-master\Backend.sucertificado.com\ProyectoJaverianaDisYEv\bin\System.Xml.XmlSerializer.dll
+C:\Users\jcorteso\Downloads\DiseñoProyecto\sucertificado.com-master\Backend.sucertificado.com\ProyectoJaverianaDisYEv\bin\System.Xml.XPath.dll
+C:\Users\jcorteso\Downloads\DiseñoProyecto\sucertificado.com-master\Backend.sucertificado.com\ProyectoJaverianaDisYEv\bin\System.Xml.XPath.XDocument.dll
+C:\Users\jcorteso\Downloads\DiseñoProyecto\sucertificado.com-master\Backend.sucertificado.com\ProyectoJaverianaDisYEv\bin\Antlr3.Runtime.dll
+C:\Users\jcorteso\Downloads\DiseñoProyecto\sucertificado.com-master\Backend.sucertificado.com\ProyectoJaverianaDisYEv\bin\Microsoft.AspNetCore.Cors.dll
+C:\Users\jcorteso\Downloads\DiseñoProyecto\sucertificado.com-master\Backend.sucertificado.com\ProyectoJaverianaDisYEv\bin\Microsoft.AspNetCore.Http.Abstractions.dll
+C:\Users\jcorteso\Downloads\DiseñoProyecto\sucertificado.com-master\Backend.sucertificado.com\ProyectoJaverianaDisYEv\bin\Microsoft.AspNetCore.Http.Extensions.dll
+C:\Users\jcorteso\Downloads\DiseñoProyecto\sucertificado.com-master\Backend.sucertificado.com\ProyectoJaverianaDisYEv\bin\Microsoft.AspNetCore.Http.Features.dll
+C:\Users\jcorteso\Downloads\DiseñoProyecto\sucertificado.com-master\Backend.sucertificado.com\ProyectoJaverianaDisYEv\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\jcorteso\Downloads\DiseñoProyecto\sucertificado.com-master\Backend.sucertificado.com\ProyectoJaverianaDisYEv\bin\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\jcorteso\Downloads\DiseñoProyecto\sucertificado.com-master\Backend.sucertificado.com\ProyectoJaverianaDisYEv\bin\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\jcorteso\Downloads\DiseñoProyecto\sucertificado.com-master\Backend.sucertificado.com\ProyectoJaverianaDisYEv\bin\Microsoft.Extensions.FileProviders.Abstractions.dll
+C:\Users\jcorteso\Downloads\DiseñoProyecto\sucertificado.com-master\Backend.sucertificado.com\ProyectoJaverianaDisYEv\bin\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\jcorteso\Downloads\DiseñoProyecto\sucertificado.com-master\Backend.sucertificado.com\ProyectoJaverianaDisYEv\bin\Microsoft.Extensions.Options.dll
+C:\Users\jcorteso\Downloads\DiseñoProyecto\sucertificado.com-master\Backend.sucertificado.com\ProyectoJaverianaDisYEv\bin\Microsoft.Extensions.Primitives.dll
+C:\Users\jcorteso\Downloads\DiseñoProyecto\sucertificado.com-master\Backend.sucertificado.com\ProyectoJaverianaDisYEv\bin\Microsoft.Net.Http.Headers.dll
+C:\Users\jcorteso\Downloads\DiseñoProyecto\sucertificado.com-master\Backend.sucertificado.com\ProyectoJaverianaDisYEv\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\jcorteso\Downloads\DiseñoProyecto\sucertificado.com-master\Backend.sucertificado.com\ProyectoJaverianaDisYEv\bin\Newtonsoft.Json.dll
+C:\Users\jcorteso\Downloads\DiseñoProyecto\sucertificado.com-master\Backend.sucertificado.com\ProyectoJaverianaDisYEv\bin\ProyectoJaverianaDisYEvBL.dll
+C:\Users\jcorteso\Downloads\DiseñoProyecto\sucertificado.com-master\Backend.sucertificado.com\ProyectoJaverianaDisYEv\bin\ProyectoJaverianaDisYEvEntities.Entities.dll
+C:\Users\jcorteso\Downloads\DiseñoProyecto\sucertificado.com-master\Backend.sucertificado.com\ProyectoJaverianaDisYEv\bin\Swashbuckle.Core.dll
+C:\Users\jcorteso\Downloads\DiseñoProyecto\sucertificado.com-master\Backend.sucertificado.com\ProyectoJaverianaDisYEv\bin\System.Buffers.dll
+C:\Users\jcorteso\Downloads\DiseñoProyecto\sucertificado.com-master\Backend.sucertificado.com\ProyectoJaverianaDisYEv\bin\System.ComponentModel.Annotations.dll
+C:\Users\jcorteso\Downloads\DiseñoProyecto\sucertificado.com-master\Backend.sucertificado.com\ProyectoJaverianaDisYEv\bin\System.Memory.dll
+C:\Users\jcorteso\Downloads\DiseñoProyecto\sucertificado.com-master\Backend.sucertificado.com\ProyectoJaverianaDisYEv\bin\System.Net.Http.Formatting.dll
+C:\Users\jcorteso\Downloads\DiseñoProyecto\sucertificado.com-master\Backend.sucertificado.com\ProyectoJaverianaDisYEv\bin\System.Numerics.Vectors.dll
+C:\Users\jcorteso\Downloads\DiseñoProyecto\sucertificado.com-master\Backend.sucertificado.com\ProyectoJaverianaDisYEv\bin\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\jcorteso\Downloads\DiseñoProyecto\sucertificado.com-master\Backend.sucertificado.com\ProyectoJaverianaDisYEv\bin\System.Text.Encodings.Web.dll
+C:\Users\jcorteso\Downloads\DiseñoProyecto\sucertificado.com-master\Backend.sucertificado.com\ProyectoJaverianaDisYEv\bin\System.Web.Helpers.dll
+C:\Users\jcorteso\Downloads\DiseñoProyecto\sucertificado.com-master\Backend.sucertificado.com\ProyectoJaverianaDisYEv\bin\System.Web.Http.dll
+C:\Users\jcorteso\Downloads\DiseñoProyecto\sucertificado.com-master\Backend.sucertificado.com\ProyectoJaverianaDisYEv\bin\System.Web.Http.WebHost.dll
+C:\Users\jcorteso\Downloads\DiseñoProyecto\sucertificado.com-master\Backend.sucertificado.com\ProyectoJaverianaDisYEv\bin\System.Web.Mvc.dll
+C:\Users\jcorteso\Downloads\DiseñoProyecto\sucertificado.com-master\Backend.sucertificado.com\ProyectoJaverianaDisYEv\bin\System.Web.Optimization.dll
+C:\Users\jcorteso\Downloads\DiseñoProyecto\sucertificado.com-master\Backend.sucertificado.com\ProyectoJaverianaDisYEv\bin\System.Web.Razor.dll
+C:\Users\jcorteso\Downloads\DiseñoProyecto\sucertificado.com-master\Backend.sucertificado.com\ProyectoJaverianaDisYEv\bin\System.Web.WebPages.Deployment.dll
+C:\Users\jcorteso\Downloads\DiseñoProyecto\sucertificado.com-master\Backend.sucertificado.com\ProyectoJaverianaDisYEv\bin\System.Web.WebPages.dll
+C:\Users\jcorteso\Downloads\DiseñoProyecto\sucertificado.com-master\Backend.sucertificado.com\ProyectoJaverianaDisYEv\bin\System.Web.WebPages.Razor.dll
+C:\Users\jcorteso\Downloads\DiseñoProyecto\sucertificado.com-master\Backend.sucertificado.com\ProyectoJaverianaDisYEv\bin\WebActivatorEx.dll
+C:\Users\jcorteso\Downloads\DiseñoProyecto\sucertificado.com-master\Backend.sucertificado.com\ProyectoJaverianaDisYEv\bin\WebGrease.dll
+C:\Users\jcorteso\Downloads\DiseñoProyecto\sucertificado.com-master\Backend.sucertificado.com\ProyectoJaverianaDisYEv\bin\ProyectoJaverianaDisYEvDAL.dll
+C:\Users\jcorteso\Downloads\DiseñoProyecto\sucertificado.com-master\Backend.sucertificado.com\ProyectoJaverianaDisYEv\bin\ProyectoJaverianaDisYEvBL.pdb
+C:\Users\jcorteso\Downloads\DiseñoProyecto\sucertificado.com-master\Backend.sucertificado.com\ProyectoJaverianaDisYEv\bin\ProyectoJaverianaDisYEvEntities.Entities.pdb
+C:\Users\jcorteso\Downloads\DiseñoProyecto\sucertificado.com-master\Backend.sucertificado.com\ProyectoJaverianaDisYEv\bin\Microsoft.AspNetCore.Cors.xml
+C:\Users\jcorteso\Downloads\DiseñoProyecto\sucertificado.com-master\Backend.sucertificado.com\ProyectoJaverianaDisYEv\bin\Microsoft.AspNetCore.Http.Abstractions.xml
+C:\Users\jcorteso\Downloads\DiseñoProyecto\sucertificado.com-master\Backend.sucertificado.com\ProyectoJaverianaDisYEv\bin\Microsoft.AspNetCore.Http.Extensions.xml
+C:\Users\jcorteso\Downloads\DiseñoProyecto\sucertificado.com-master\Backend.sucertificado.com\ProyectoJaverianaDisYEv\bin\Microsoft.AspNetCore.Http.Features.xml
+C:\Users\jcorteso\Downloads\DiseñoProyecto\sucertificado.com-master\Backend.sucertificado.com\ProyectoJaverianaDisYEv\bin\Microsoft.Extensions.Configuration.Abstractions.xml
+C:\Users\jcorteso\Downloads\DiseñoProyecto\sucertificado.com-master\Backend.sucertificado.com\ProyectoJaverianaDisYEv\bin\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+C:\Users\jcorteso\Downloads\DiseñoProyecto\sucertificado.com-master\Backend.sucertificado.com\ProyectoJaverianaDisYEv\bin\Microsoft.Extensions.FileProviders.Abstractions.xml
+C:\Users\jcorteso\Downloads\DiseñoProyecto\sucertificado.com-master\Backend.sucertificado.com\ProyectoJaverianaDisYEv\bin\Microsoft.Extensions.Logging.Abstractions.xml
+C:\Users\jcorteso\Downloads\DiseñoProyecto\sucertificado.com-master\Backend.sucertificado.com\ProyectoJaverianaDisYEv\bin\Microsoft.Extensions.Options.xml
+C:\Users\jcorteso\Downloads\DiseñoProyecto\sucertificado.com-master\Backend.sucertificado.com\ProyectoJaverianaDisYEv\bin\Microsoft.Extensions.Primitives.xml
+C:\Users\jcorteso\Downloads\DiseñoProyecto\sucertificado.com-master\Backend.sucertificado.com\ProyectoJaverianaDisYEv\bin\Microsoft.Net.Http.Headers.xml
+C:\Users\jcorteso\Downloads\DiseñoProyecto\sucertificado.com-master\Backend.sucertificado.com\ProyectoJaverianaDisYEv\bin\System.Buffers.xml
+C:\Users\jcorteso\Downloads\DiseñoProyecto\sucertificado.com-master\Backend.sucertificado.com\ProyectoJaverianaDisYEv\bin\System.Memory.xml
+C:\Users\jcorteso\Downloads\DiseñoProyecto\sucertificado.com-master\Backend.sucertificado.com\ProyectoJaverianaDisYEv\bin\System.Numerics.Vectors.xml
+C:\Users\jcorteso\Downloads\DiseñoProyecto\sucertificado.com-master\Backend.sucertificado.com\ProyectoJaverianaDisYEv\bin\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\jcorteso\Downloads\DiseñoProyecto\sucertificado.com-master\Backend.sucertificado.com\ProyectoJaverianaDisYEv\bin\System.Text.Encodings.Web.xml
+C:\Users\jcorteso\Downloads\DiseñoProyecto\sucertificado.com-master\Backend.sucertificado.com\ProyectoJaverianaDisYEv\bin\Newtonsoft.Json.xml
+C:\Users\jcorteso\Downloads\DiseñoProyecto\sucertificado.com-master\Backend.sucertificado.com\ProyectoJaverianaDisYEv\bin\System.Net.Http.Formatting.xml
+C:\Users\jcorteso\Downloads\DiseñoProyecto\sucertificado.com-master\Backend.sucertificado.com\ProyectoJaverianaDisYEv\bin\System.Web.Helpers.xml
+C:\Users\jcorteso\Downloads\DiseñoProyecto\sucertificado.com-master\Backend.sucertificado.com\ProyectoJaverianaDisYEv\bin\System.Web.Http.xml
+C:\Users\jcorteso\Downloads\DiseñoProyecto\sucertificado.com-master\Backend.sucertificado.com\ProyectoJaverianaDisYEv\bin\System.Web.Http.WebHost.xml
+C:\Users\jcorteso\Downloads\DiseñoProyecto\sucertificado.com-master\Backend.sucertificado.com\ProyectoJaverianaDisYEv\bin\System.Web.Mvc.xml
+C:\Users\jcorteso\Downloads\DiseñoProyecto\sucertificado.com-master\Backend.sucertificado.com\ProyectoJaverianaDisYEv\bin\System.Web.Optimization.xml
+C:\Users\jcorteso\Downloads\DiseñoProyecto\sucertificado.com-master\Backend.sucertificado.com\ProyectoJaverianaDisYEv\bin\System.Web.Razor.xml
+C:\Users\jcorteso\Downloads\DiseñoProyecto\sucertificado.com-master\Backend.sucertificado.com\ProyectoJaverianaDisYEv\bin\System.Web.WebPages.xml
+C:\Users\jcorteso\Downloads\DiseñoProyecto\sucertificado.com-master\Backend.sucertificado.com\ProyectoJaverianaDisYEv\bin\System.Web.WebPages.Deployment.xml
+C:\Users\jcorteso\Downloads\DiseñoProyecto\sucertificado.com-master\Backend.sucertificado.com\ProyectoJaverianaDisYEv\bin\System.Web.WebPages.Razor.xml
+C:\Users\jcorteso\Downloads\DiseñoProyecto\sucertificado.com-master\Backend.sucertificado.com\ProyectoJaverianaDisYEv\bin\Antlr3.Runtime.pdb
+C:\Users\jcorteso\Downloads\DiseñoProyecto\sucertificado.com-master\Backend.sucertificado.com\ProyectoJaverianaDisYEv\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\jcorteso\Downloads\DiseñoProyecto\sucertificado.com-master\Backend.sucertificado.com\ProyectoJaverianaDisYEv\bin\ProyectoJaverianaDisYEvDAL.pdb
+C:\Users\jcorteso\Downloads\DiseñoProyecto\sucertificado.com-master\Backend.sucertificado.com\ProyectoJaverianaDisYEv\obj\Debug\ProyectoJaverianaDisYEv.csproj.CopyComplete
+C:\Users\jcorteso\Downloads\DiseñoProyecto\sucertificado.com-master\Backend.sucertificado.com\ProyectoJaverianaDisYEv\bin\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\jcorteso\Downloads\DiseñoProyecto\sucertificado.com-master\Backend.sucertificado.com\ProyectoJaverianaDisYEv\bin\Microsoft.IdentityModel.Logging.dll
+C:\Users\jcorteso\Downloads\DiseñoProyecto\sucertificado.com-master\Backend.sucertificado.com\ProyectoJaverianaDisYEv\bin\Microsoft.IdentityModel.Tokens.dll
+C:\Users\jcorteso\Downloads\DiseñoProyecto\sucertificado.com-master\Backend.sucertificado.com\ProyectoJaverianaDisYEv\bin\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\jcorteso\Downloads\DiseñoProyecto\sucertificado.com-master\Backend.sucertificado.com\ProyectoJaverianaDisYEv\bin\Microsoft.IdentityModel.JsonWebTokens.xml
+C:\Users\jcorteso\Downloads\DiseñoProyecto\sucertificado.com-master\Backend.sucertificado.com\ProyectoJaverianaDisYEv\bin\Microsoft.IdentityModel.Logging.xml
+C:\Users\jcorteso\Downloads\DiseñoProyecto\sucertificado.com-master\Backend.sucertificado.com\ProyectoJaverianaDisYEv\bin\Microsoft.IdentityModel.Tokens.xml
+C:\Users\jcorteso\Downloads\DiseñoProyecto\sucertificado.com-master\Backend.sucertificado.com\ProyectoJaverianaDisYEv\bin\System.IdentityModel.Tokens.Jwt.xml
+C:\Users\jcorteso\Downloads\DiseñoProyecto\sucertificado.com-master\Backend.sucertificado.com\ProyectoJaverianaDisYEv\bin\System.Web.Cors.dll
+C:\Users\jcorteso\Downloads\DiseñoProyecto\sucertificado.com-master\Backend.sucertificado.com\ProyectoJaverianaDisYEv\bin\System.Web.Http.Cors.dll
+C:\Users\jcorteso\Downloads\DiseñoProyecto\sucertificado.com-master\Backend.sucertificado.com\ProyectoJaverianaDisYEv\bin\System.Web.Http.Cors.xml
+C:\Users\USUARIO\Documents\repo\Nueva carpeta\Backend.sucertificado.com\ProyectoJaverianaDisYEv\bin\ProyectoJaverianaDisYEv.dll.config
+C:\Users\USUARIO\Documents\repo\Nueva carpeta\Backend.sucertificado.com\ProyectoJaverianaDisYEv\bin\ProyectoJaverianaDisYEv.dll
+C:\Users\USUARIO\Documents\repo\Nueva carpeta\Backend.sucertificado.com\ProyectoJaverianaDisYEv\bin\ProyectoJaverianaDisYEv.pdb
+C:\Users\USUARIO\Documents\repo\Nueva carpeta\Backend.sucertificado.com\ProyectoJaverianaDisYEv\bin\roslyn\csc.exe
+C:\Users\USUARIO\Documents\repo\Nueva carpeta\Backend.sucertificado.com\ProyectoJaverianaDisYEv\bin\roslyn\csc.exe.config
+C:\Users\USUARIO\Documents\repo\Nueva carpeta\Backend.sucertificado.com\ProyectoJaverianaDisYEv\bin\roslyn\csc.rsp
+C:\Users\USUARIO\Documents\repo\Nueva carpeta\Backend.sucertificado.com\ProyectoJaverianaDisYEv\bin\roslyn\csi.exe
+C:\Users\USUARIO\Documents\repo\Nueva carpeta\Backend.sucertificado.com\ProyectoJaverianaDisYEv\bin\roslyn\csi.exe.config
+C:\Users\USUARIO\Documents\repo\Nueva carpeta\Backend.sucertificado.com\ProyectoJaverianaDisYEv\bin\roslyn\csi.rsp
+C:\Users\USUARIO\Documents\repo\Nueva carpeta\Backend.sucertificado.com\ProyectoJaverianaDisYEv\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\USUARIO\Documents\repo\Nueva carpeta\Backend.sucertificado.com\ProyectoJaverianaDisYEv\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\USUARIO\Documents\repo\Nueva carpeta\Backend.sucertificado.com\ProyectoJaverianaDisYEv\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\USUARIO\Documents\repo\Nueva carpeta\Backend.sucertificado.com\ProyectoJaverianaDisYEv\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\USUARIO\Documents\repo\Nueva carpeta\Backend.sucertificado.com\ProyectoJaverianaDisYEv\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\USUARIO\Documents\repo\Nueva carpeta\Backend.sucertificado.com\ProyectoJaverianaDisYEv\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\USUARIO\Documents\repo\Nueva carpeta\Backend.sucertificado.com\ProyectoJaverianaDisYEv\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\USUARIO\Documents\repo\Nueva carpeta\Backend.sucertificado.com\ProyectoJaverianaDisYEv\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\USUARIO\Documents\repo\Nueva carpeta\Backend.sucertificado.com\ProyectoJaverianaDisYEv\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\USUARIO\Documents\repo\Nueva carpeta\Backend.sucertificado.com\ProyectoJaverianaDisYEv\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\USUARIO\Documents\repo\Nueva carpeta\Backend.sucertificado.com\ProyectoJaverianaDisYEv\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\USUARIO\Documents\repo\Nueva carpeta\Backend.sucertificado.com\ProyectoJaverianaDisYEv\bin\roslyn\System.AppContext.dll
+C:\Users\USUARIO\Documents\repo\Nueva carpeta\Backend.sucertificado.com\ProyectoJaverianaDisYEv\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\USUARIO\Documents\repo\Nueva carpeta\Backend.sucertificado.com\ProyectoJaverianaDisYEv\bin\roslyn\System.Console.dll
+C:\Users\USUARIO\Documents\repo\Nueva carpeta\Backend.sucertificado.com\ProyectoJaverianaDisYEv\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\USUARIO\Documents\repo\Nueva carpeta\Backend.sucertificado.com\ProyectoJaverianaDisYEv\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\USUARIO\Documents\repo\Nueva carpeta\Backend.sucertificado.com\ProyectoJaverianaDisYEv\bin\roslyn\System.IO.Compression.dll
+C:\Users\USUARIO\Documents\repo\Nueva carpeta\Backend.sucertificado.com\ProyectoJaverianaDisYEv\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\USUARIO\Documents\repo\Nueva carpeta\Backend.sucertificado.com\ProyectoJaverianaDisYEv\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\USUARIO\Documents\repo\Nueva carpeta\Backend.sucertificado.com\ProyectoJaverianaDisYEv\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\USUARIO\Documents\repo\Nueva carpeta\Backend.sucertificado.com\ProyectoJaverianaDisYEv\bin\roslyn\System.IO.Pipes.dll
+C:\Users\USUARIO\Documents\repo\Nueva carpeta\Backend.sucertificado.com\ProyectoJaverianaDisYEv\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\USUARIO\Documents\repo\Nueva carpeta\Backend.sucertificado.com\ProyectoJaverianaDisYEv\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\USUARIO\Documents\repo\Nueva carpeta\Backend.sucertificado.com\ProyectoJaverianaDisYEv\bin\roslyn\System.Security.Claims.dll
+C:\Users\USUARIO\Documents\repo\Nueva carpeta\Backend.sucertificado.com\ProyectoJaverianaDisYEv\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\USUARIO\Documents\repo\Nueva carpeta\Backend.sucertificado.com\ProyectoJaverianaDisYEv\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\USUARIO\Documents\repo\Nueva carpeta\Backend.sucertificado.com\ProyectoJaverianaDisYEv\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\USUARIO\Documents\repo\Nueva carpeta\Backend.sucertificado.com\ProyectoJaverianaDisYEv\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\USUARIO\Documents\repo\Nueva carpeta\Backend.sucertificado.com\ProyectoJaverianaDisYEv\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\USUARIO\Documents\repo\Nueva carpeta\Backend.sucertificado.com\ProyectoJaverianaDisYEv\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\USUARIO\Documents\repo\Nueva carpeta\Backend.sucertificado.com\ProyectoJaverianaDisYEv\bin\roslyn\System.ValueTuple.dll
+C:\Users\USUARIO\Documents\repo\Nueva carpeta\Backend.sucertificado.com\ProyectoJaverianaDisYEv\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\USUARIO\Documents\repo\Nueva carpeta\Backend.sucertificado.com\ProyectoJaverianaDisYEv\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\USUARIO\Documents\repo\Nueva carpeta\Backend.sucertificado.com\ProyectoJaverianaDisYEv\bin\roslyn\System.Xml.XPath.dll
+C:\Users\USUARIO\Documents\repo\Nueva carpeta\Backend.sucertificado.com\ProyectoJaverianaDisYEv\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\USUARIO\Documents\repo\Nueva carpeta\Backend.sucertificado.com\ProyectoJaverianaDisYEv\bin\roslyn\vbc.exe
+C:\Users\USUARIO\Documents\repo\Nueva carpeta\Backend.sucertificado.com\ProyectoJaverianaDisYEv\bin\roslyn\vbc.exe.config
+C:\Users\USUARIO\Documents\repo\Nueva carpeta\Backend.sucertificado.com\ProyectoJaverianaDisYEv\bin\roslyn\vbc.rsp
+C:\Users\USUARIO\Documents\repo\Nueva carpeta\Backend.sucertificado.com\ProyectoJaverianaDisYEv\bin\roslyn\VBCSCompiler.exe
+C:\Users\USUARIO\Documents\repo\Nueva carpeta\Backend.sucertificado.com\ProyectoJaverianaDisYEv\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\USUARIO\Documents\repo\Nueva carpeta\Backend.sucertificado.com\ProyectoJaverianaDisYEv\bin\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\USUARIO\Documents\repo\Nueva carpeta\Backend.sucertificado.com\ProyectoJaverianaDisYEv\bin\Microsoft.Win32.Primitives.dll
+C:\Users\USUARIO\Documents\repo\Nueva carpeta\Backend.sucertificado.com\ProyectoJaverianaDisYEv\bin\netstandard.dll
+C:\Users\USUARIO\Documents\repo\Nueva carpeta\Backend.sucertificado.com\ProyectoJaverianaDisYEv\bin\System.AppContext.dll
+C:\Users\USUARIO\Documents\repo\Nueva carpeta\Backend.sucertificado.com\ProyectoJaverianaDisYEv\bin\System.Collections.Concurrent.dll
+C:\Users\USUARIO\Documents\repo\Nueva carpeta\Backend.sucertificado.com\ProyectoJaverianaDisYEv\bin\System.Collections.dll
+C:\Users\USUARIO\Documents\repo\Nueva carpeta\Backend.sucertificado.com\ProyectoJaverianaDisYEv\bin\System.Collections.NonGeneric.dll
+C:\Users\USUARIO\Documents\repo\Nueva carpeta\Backend.sucertificado.com\ProyectoJaverianaDisYEv\bin\System.Collections.Specialized.dll
+C:\Users\USUARIO\Documents\repo\Nueva carpeta\Backend.sucertificado.com\ProyectoJaverianaDisYEv\bin\System.ComponentModel.dll
+C:\Users\USUARIO\Documents\repo\Nueva carpeta\Backend.sucertificado.com\ProyectoJaverianaDisYEv\bin\System.ComponentModel.EventBasedAsync.dll
+C:\Users\USUARIO\Documents\repo\Nueva carpeta\Backend.sucertificado.com\ProyectoJaverianaDisYEv\bin\System.ComponentModel.Primitives.dll
+C:\Users\USUARIO\Documents\repo\Nueva carpeta\Backend.sucertificado.com\ProyectoJaverianaDisYEv\bin\System.ComponentModel.TypeConverter.dll
+C:\Users\USUARIO\Documents\repo\Nueva carpeta\Backend.sucertificado.com\ProyectoJaverianaDisYEv\bin\System.Console.dll
+C:\Users\USUARIO\Documents\repo\Nueva carpeta\Backend.sucertificado.com\ProyectoJaverianaDisYEv\bin\System.Data.Common.dll
+C:\Users\USUARIO\Documents\repo\Nueva carpeta\Backend.sucertificado.com\ProyectoJaverianaDisYEv\bin\System.Diagnostics.Contracts.dll
+C:\Users\USUARIO\Documents\repo\Nueva carpeta\Backend.sucertificado.com\ProyectoJaverianaDisYEv\bin\System.Diagnostics.Debug.dll
+C:\Users\USUARIO\Documents\repo\Nueva carpeta\Backend.sucertificado.com\ProyectoJaverianaDisYEv\bin\System.Diagnostics.FileVersionInfo.dll
+C:\Users\USUARIO\Documents\repo\Nueva carpeta\Backend.sucertificado.com\ProyectoJaverianaDisYEv\bin\System.Diagnostics.Process.dll
+C:\Users\USUARIO\Documents\repo\Nueva carpeta\Backend.sucertificado.com\ProyectoJaverianaDisYEv\bin\System.Diagnostics.StackTrace.dll
+C:\Users\USUARIO\Documents\repo\Nueva carpeta\Backend.sucertificado.com\ProyectoJaverianaDisYEv\bin\System.Diagnostics.TextWriterTraceListener.dll
+C:\Users\USUARIO\Documents\repo\Nueva carpeta\Backend.sucertificado.com\ProyectoJaverianaDisYEv\bin\System.Diagnostics.Tools.dll
+C:\Users\USUARIO\Documents\repo\Nueva carpeta\Backend.sucertificado.com\ProyectoJaverianaDisYEv\bin\System.Diagnostics.TraceSource.dll
+C:\Users\USUARIO\Documents\repo\Nueva carpeta\Backend.sucertificado.com\ProyectoJaverianaDisYEv\bin\System.Diagnostics.Tracing.dll
+C:\Users\USUARIO\Documents\repo\Nueva carpeta\Backend.sucertificado.com\ProyectoJaverianaDisYEv\bin\System.Drawing.Primitives.dll
+C:\Users\USUARIO\Documents\repo\Nueva carpeta\Backend.sucertificado.com\ProyectoJaverianaDisYEv\bin\System.Dynamic.Runtime.dll
+C:\Users\USUARIO\Documents\repo\Nueva carpeta\Backend.sucertificado.com\ProyectoJaverianaDisYEv\bin\System.Globalization.Calendars.dll
+C:\Users\USUARIO\Documents\repo\Nueva carpeta\Backend.sucertificado.com\ProyectoJaverianaDisYEv\bin\System.Globalization.dll
+C:\Users\USUARIO\Documents\repo\Nueva carpeta\Backend.sucertificado.com\ProyectoJaverianaDisYEv\bin\System.Globalization.Extensions.dll
+C:\Users\USUARIO\Documents\repo\Nueva carpeta\Backend.sucertificado.com\ProyectoJaverianaDisYEv\bin\System.IO.Compression.dll
+C:\Users\USUARIO\Documents\repo\Nueva carpeta\Backend.sucertificado.com\ProyectoJaverianaDisYEv\bin\System.IO.Compression.ZipFile.dll
+C:\Users\USUARIO\Documents\repo\Nueva carpeta\Backend.sucertificado.com\ProyectoJaverianaDisYEv\bin\System.IO.dll
+C:\Users\USUARIO\Documents\repo\Nueva carpeta\Backend.sucertificado.com\ProyectoJaverianaDisYEv\bin\System.IO.FileSystem.dll
+C:\Users\USUARIO\Documents\repo\Nueva carpeta\Backend.sucertificado.com\ProyectoJaverianaDisYEv\bin\System.IO.FileSystem.DriveInfo.dll
+C:\Users\USUARIO\Documents\repo\Nueva carpeta\Backend.sucertificado.com\ProyectoJaverianaDisYEv\bin\System.IO.FileSystem.Primitives.dll
+C:\Users\USUARIO\Documents\repo\Nueva carpeta\Backend.sucertificado.com\ProyectoJaverianaDisYEv\bin\System.IO.FileSystem.Watcher.dll
+C:\Users\USUARIO\Documents\repo\Nueva carpeta\Backend.sucertificado.com\ProyectoJaverianaDisYEv\bin\System.IO.IsolatedStorage.dll
+C:\Users\USUARIO\Documents\repo\Nueva carpeta\Backend.sucertificado.com\ProyectoJaverianaDisYEv\bin\System.IO.MemoryMappedFiles.dll
+C:\Users\USUARIO\Documents\repo\Nueva carpeta\Backend.sucertificado.com\ProyectoJaverianaDisYEv\bin\System.IO.Pipes.dll
+C:\Users\USUARIO\Documents\repo\Nueva carpeta\Backend.sucertificado.com\ProyectoJaverianaDisYEv\bin\System.IO.UnmanagedMemoryStream.dll
+C:\Users\USUARIO\Documents\repo\Nueva carpeta\Backend.sucertificado.com\ProyectoJaverianaDisYEv\bin\System.Linq.dll
+C:\Users\USUARIO\Documents\repo\Nueva carpeta\Backend.sucertificado.com\ProyectoJaverianaDisYEv\bin\System.Linq.Expressions.dll
+C:\Users\USUARIO\Documents\repo\Nueva carpeta\Backend.sucertificado.com\ProyectoJaverianaDisYEv\bin\System.Linq.Parallel.dll
+C:\Users\USUARIO\Documents\repo\Nueva carpeta\Backend.sucertificado.com\ProyectoJaverianaDisYEv\bin\System.Linq.Queryable.dll
+C:\Users\USUARIO\Documents\repo\Nueva carpeta\Backend.sucertificado.com\ProyectoJaverianaDisYEv\bin\System.Net.Http.dll
+C:\Users\USUARIO\Documents\repo\Nueva carpeta\Backend.sucertificado.com\ProyectoJaverianaDisYEv\bin\System.Net.NameResolution.dll
+C:\Users\USUARIO\Documents\repo\Nueva carpeta\Backend.sucertificado.com\ProyectoJaverianaDisYEv\bin\System.Net.NetworkInformation.dll
+C:\Users\USUARIO\Documents\repo\Nueva carpeta\Backend.sucertificado.com\ProyectoJaverianaDisYEv\bin\System.Net.Ping.dll
+C:\Users\USUARIO\Documents\repo\Nueva carpeta\Backend.sucertificado.com\ProyectoJaverianaDisYEv\bin\System.Net.Primitives.dll
+C:\Users\USUARIO\Documents\repo\Nueva carpeta\Backend.sucertificado.com\ProyectoJaverianaDisYEv\bin\System.Net.Requests.dll
+C:\Users\USUARIO\Documents\repo\Nueva carpeta\Backend.sucertificado.com\ProyectoJaverianaDisYEv\bin\System.Net.Security.dll
+C:\Users\USUARIO\Documents\repo\Nueva carpeta\Backend.sucertificado.com\ProyectoJaverianaDisYEv\bin\System.Net.Sockets.dll
+C:\Users\USUARIO\Documents\repo\Nueva carpeta\Backend.sucertificado.com\ProyectoJaverianaDisYEv\bin\System.Net.WebHeaderCollection.dll
+C:\Users\USUARIO\Documents\repo\Nueva carpeta\Backend.sucertificado.com\ProyectoJaverianaDisYEv\bin\System.Net.WebSockets.Client.dll
+C:\Users\USUARIO\Documents\repo\Nueva carpeta\Backend.sucertificado.com\ProyectoJaverianaDisYEv\bin\System.Net.WebSockets.dll
+C:\Users\USUARIO\Documents\repo\Nueva carpeta\Backend.sucertificado.com\ProyectoJaverianaDisYEv\bin\System.ObjectModel.dll
+C:\Users\USUARIO\Documents\repo\Nueva carpeta\Backend.sucertificado.com\ProyectoJaverianaDisYEv\bin\System.Reflection.dll
+C:\Users\USUARIO\Documents\repo\Nueva carpeta\Backend.sucertificado.com\ProyectoJaverianaDisYEv\bin\System.Reflection.Extensions.dll
+C:\Users\USUARIO\Documents\repo\Nueva carpeta\Backend.sucertificado.com\ProyectoJaverianaDisYEv\bin\System.Reflection.Primitives.dll
+C:\Users\USUARIO\Documents\repo\Nueva carpeta\Backend.sucertificado.com\ProyectoJaverianaDisYEv\bin\System.Resources.Reader.dll
+C:\Users\USUARIO\Documents\repo\Nueva carpeta\Backend.sucertificado.com\ProyectoJaverianaDisYEv\bin\System.Resources.ResourceManager.dll
+C:\Users\USUARIO\Documents\repo\Nueva carpeta\Backend.sucertificado.com\ProyectoJaverianaDisYEv\bin\System.Resources.Writer.dll
+C:\Users\USUARIO\Documents\repo\Nueva carpeta\Backend.sucertificado.com\ProyectoJaverianaDisYEv\bin\System.Runtime.CompilerServices.VisualC.dll
+C:\Users\USUARIO\Documents\repo\Nueva carpeta\Backend.sucertificado.com\ProyectoJaverianaDisYEv\bin\System.Runtime.dll
+C:\Users\USUARIO\Documents\repo\Nueva carpeta\Backend.sucertificado.com\ProyectoJaverianaDisYEv\bin\System.Runtime.Extensions.dll
+C:\Users\USUARIO\Documents\repo\Nueva carpeta\Backend.sucertificado.com\ProyectoJaverianaDisYEv\bin\System.Runtime.Handles.dll
+C:\Users\USUARIO\Documents\repo\Nueva carpeta\Backend.sucertificado.com\ProyectoJaverianaDisYEv\bin\System.Runtime.InteropServices.dll
+C:\Users\USUARIO\Documents\repo\Nueva carpeta\Backend.sucertificado.com\ProyectoJaverianaDisYEv\bin\System.Runtime.Numerics.dll
+C:\Users\USUARIO\Documents\repo\Nueva carpeta\Backend.sucertificado.com\ProyectoJaverianaDisYEv\bin\System.Runtime.Serialization.Formatters.dll
+C:\Users\USUARIO\Documents\repo\Nueva carpeta\Backend.sucertificado.com\ProyectoJaverianaDisYEv\bin\System.Runtime.Serialization.Json.dll
+C:\Users\USUARIO\Documents\repo\Nueva carpeta\Backend.sucertificado.com\ProyectoJaverianaDisYEv\bin\System.Runtime.Serialization.Primitives.dll
+C:\Users\USUARIO\Documents\repo\Nueva carpeta\Backend.sucertificado.com\ProyectoJaverianaDisYEv\bin\System.Runtime.Serialization.Xml.dll
+C:\Users\USUARIO\Documents\repo\Nueva carpeta\Backend.sucertificado.com\ProyectoJaverianaDisYEv\bin\System.Security.Claims.dll
+C:\Users\USUARIO\Documents\repo\Nueva carpeta\Backend.sucertificado.com\ProyectoJaverianaDisYEv\bin\System.Security.Cryptography.Algorithms.dll
+C:\Users\USUARIO\Documents\repo\Nueva carpeta\Backend.sucertificado.com\ProyectoJaverianaDisYEv\bin\System.Security.Cryptography.Csp.dll
+C:\Users\USUARIO\Documents\repo\Nueva carpeta\Backend.sucertificado.com\ProyectoJaverianaDisYEv\bin\System.Security.Cryptography.Encoding.dll
+C:\Users\USUARIO\Documents\repo\Nueva carpeta\Backend.sucertificado.com\ProyectoJaverianaDisYEv\bin\System.Security.Cryptography.Primitives.dll
+C:\Users\USUARIO\Documents\repo\Nueva carpeta\Backend.sucertificado.com\ProyectoJaverianaDisYEv\bin\System.Security.Cryptography.X509Certificates.dll
+C:\Users\USUARIO\Documents\repo\Nueva carpeta\Backend.sucertificado.com\ProyectoJaverianaDisYEv\bin\System.Security.Principal.dll
+C:\Users\USUARIO\Documents\repo\Nueva carpeta\Backend.sucertificado.com\ProyectoJaverianaDisYEv\bin\System.Security.SecureString.dll
+C:\Users\USUARIO\Documents\repo\Nueva carpeta\Backend.sucertificado.com\ProyectoJaverianaDisYEv\bin\System.Text.Encoding.dll
+C:\Users\USUARIO\Documents\repo\Nueva carpeta\Backend.sucertificado.com\ProyectoJaverianaDisYEv\bin\System.Text.Encoding.Extensions.dll
+C:\Users\USUARIO\Documents\repo\Nueva carpeta\Backend.sucertificado.com\ProyectoJaverianaDisYEv\bin\System.Text.RegularExpressions.dll
+C:\Users\USUARIO\Documents\repo\Nueva carpeta\Backend.sucertificado.com\ProyectoJaverianaDisYEv\bin\System.Threading.dll
+C:\Users\USUARIO\Documents\repo\Nueva carpeta\Backend.sucertificado.com\ProyectoJaverianaDisYEv\bin\System.Threading.Overlapped.dll
+C:\Users\USUARIO\Documents\repo\Nueva carpeta\Backend.sucertificado.com\ProyectoJaverianaDisYEv\bin\System.Threading.Tasks.dll
+C:\Users\USUARIO\Documents\repo\Nueva carpeta\Backend.sucertificado.com\ProyectoJaverianaDisYEv\bin\System.Threading.Tasks.Parallel.dll
+C:\Users\USUARIO\Documents\repo\Nueva carpeta\Backend.sucertificado.com\ProyectoJaverianaDisYEv\bin\System.Threading.Thread.dll
+C:\Users\USUARIO\Documents\repo\Nueva carpeta\Backend.sucertificado.com\ProyectoJaverianaDisYEv\bin\System.Threading.ThreadPool.dll
+C:\Users\USUARIO\Documents\repo\Nueva carpeta\Backend.sucertificado.com\ProyectoJaverianaDisYEv\bin\System.Threading.Timer.dll
+C:\Users\USUARIO\Documents\repo\Nueva carpeta\Backend.sucertificado.com\ProyectoJaverianaDisYEv\bin\System.ValueTuple.dll
+C:\Users\USUARIO\Documents\repo\Nueva carpeta\Backend.sucertificado.com\ProyectoJaverianaDisYEv\bin\System.Xml.ReaderWriter.dll
+C:\Users\USUARIO\Documents\repo\Nueva carpeta\Backend.sucertificado.com\ProyectoJaverianaDisYEv\bin\System.Xml.XDocument.dll
+C:\Users\USUARIO\Documents\repo\Nueva carpeta\Backend.sucertificado.com\ProyectoJaverianaDisYEv\bin\System.Xml.XmlDocument.dll
+C:\Users\USUARIO\Documents\repo\Nueva carpeta\Backend.sucertificado.com\ProyectoJaverianaDisYEv\bin\System.Xml.XmlSerializer.dll
+C:\Users\USUARIO\Documents\repo\Nueva carpeta\Backend.sucertificado.com\ProyectoJaverianaDisYEv\bin\System.Xml.XPath.dll
+C:\Users\USUARIO\Documents\repo\Nueva carpeta\Backend.sucertificado.com\ProyectoJaverianaDisYEv\bin\System.Xml.XPath.XDocument.dll
+C:\Users\USUARIO\Documents\repo\Nueva carpeta\Backend.sucertificado.com\ProyectoJaverianaDisYEv\bin\Antlr3.Runtime.dll
+C:\Users\USUARIO\Documents\repo\Nueva carpeta\Backend.sucertificado.com\ProyectoJaverianaDisYEv\bin\Microsoft.AspNetCore.Cors.dll
+C:\Users\USUARIO\Documents\repo\Nueva carpeta\Backend.sucertificado.com\ProyectoJaverianaDisYEv\bin\Microsoft.AspNetCore.Http.Abstractions.dll
+C:\Users\USUARIO\Documents\repo\Nueva carpeta\Backend.sucertificado.com\ProyectoJaverianaDisYEv\bin\Microsoft.AspNetCore.Http.Extensions.dll
+C:\Users\USUARIO\Documents\repo\Nueva carpeta\Backend.sucertificado.com\ProyectoJaverianaDisYEv\bin\Microsoft.AspNetCore.Http.Features.dll
+C:\Users\USUARIO\Documents\repo\Nueva carpeta\Backend.sucertificado.com\ProyectoJaverianaDisYEv\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\USUARIO\Documents\repo\Nueva carpeta\Backend.sucertificado.com\ProyectoJaverianaDisYEv\bin\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\USUARIO\Documents\repo\Nueva carpeta\Backend.sucertificado.com\ProyectoJaverianaDisYEv\bin\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\USUARIO\Documents\repo\Nueva carpeta\Backend.sucertificado.com\ProyectoJaverianaDisYEv\bin\Microsoft.Extensions.FileProviders.Abstractions.dll
+C:\Users\USUARIO\Documents\repo\Nueva carpeta\Backend.sucertificado.com\ProyectoJaverianaDisYEv\bin\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\USUARIO\Documents\repo\Nueva carpeta\Backend.sucertificado.com\ProyectoJaverianaDisYEv\bin\Microsoft.Extensions.Options.dll
+C:\Users\USUARIO\Documents\repo\Nueva carpeta\Backend.sucertificado.com\ProyectoJaverianaDisYEv\bin\Microsoft.Extensions.Primitives.dll
+C:\Users\USUARIO\Documents\repo\Nueva carpeta\Backend.sucertificado.com\ProyectoJaverianaDisYEv\bin\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\USUARIO\Documents\repo\Nueva carpeta\Backend.sucertificado.com\ProyectoJaverianaDisYEv\bin\Microsoft.IdentityModel.Logging.dll
+C:\Users\USUARIO\Documents\repo\Nueva carpeta\Backend.sucertificado.com\ProyectoJaverianaDisYEv\bin\Microsoft.IdentityModel.Tokens.dll
+C:\Users\USUARIO\Documents\repo\Nueva carpeta\Backend.sucertificado.com\ProyectoJaverianaDisYEv\bin\Microsoft.Net.Http.Headers.dll
+C:\Users\USUARIO\Documents\repo\Nueva carpeta\Backend.sucertificado.com\ProyectoJaverianaDisYEv\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\USUARIO\Documents\repo\Nueva carpeta\Backend.sucertificado.com\ProyectoJaverianaDisYEv\bin\Newtonsoft.Json.dll
+C:\Users\USUARIO\Documents\repo\Nueva carpeta\Backend.sucertificado.com\ProyectoJaverianaDisYEv\bin\ProyectoJaverianaDisYEvBL.dll
+C:\Users\USUARIO\Documents\repo\Nueva carpeta\Backend.sucertificado.com\ProyectoJaverianaDisYEv\bin\ProyectoJaverianaDisYEvEntities.Entities.dll
+C:\Users\USUARIO\Documents\repo\Nueva carpeta\Backend.sucertificado.com\ProyectoJaverianaDisYEv\bin\Swashbuckle.Core.dll
+C:\Users\USUARIO\Documents\repo\Nueva carpeta\Backend.sucertificado.com\ProyectoJaverianaDisYEv\bin\System.Buffers.dll
+C:\Users\USUARIO\Documents\repo\Nueva carpeta\Backend.sucertificado.com\ProyectoJaverianaDisYEv\bin\System.ComponentModel.Annotations.dll
+C:\Users\USUARIO\Documents\repo\Nueva carpeta\Backend.sucertificado.com\ProyectoJaverianaDisYEv\bin\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\USUARIO\Documents\repo\Nueva carpeta\Backend.sucertificado.com\ProyectoJaverianaDisYEv\bin\System.Memory.dll
+C:\Users\USUARIO\Documents\repo\Nueva carpeta\Backend.sucertificado.com\ProyectoJaverianaDisYEv\bin\System.Net.Http.Formatting.dll
+C:\Users\USUARIO\Documents\repo\Nueva carpeta\Backend.sucertificado.com\ProyectoJaverianaDisYEv\bin\System.Numerics.Vectors.dll
+C:\Users\USUARIO\Documents\repo\Nueva carpeta\Backend.sucertificado.com\ProyectoJaverianaDisYEv\bin\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\USUARIO\Documents\repo\Nueva carpeta\Backend.sucertificado.com\ProyectoJaverianaDisYEv\bin\System.Text.Encodings.Web.dll
+C:\Users\USUARIO\Documents\repo\Nueva carpeta\Backend.sucertificado.com\ProyectoJaverianaDisYEv\bin\System.Web.Cors.dll
+C:\Users\USUARIO\Documents\repo\Nueva carpeta\Backend.sucertificado.com\ProyectoJaverianaDisYEv\bin\System.Web.Helpers.dll
+C:\Users\USUARIO\Documents\repo\Nueva carpeta\Backend.sucertificado.com\ProyectoJaverianaDisYEv\bin\System.Web.Http.Cors.dll
+C:\Users\USUARIO\Documents\repo\Nueva carpeta\Backend.sucertificado.com\ProyectoJaverianaDisYEv\bin\System.Web.Http.dll
+C:\Users\USUARIO\Documents\repo\Nueva carpeta\Backend.sucertificado.com\ProyectoJaverianaDisYEv\bin\System.Web.Http.WebHost.dll
+C:\Users\USUARIO\Documents\repo\Nueva carpeta\Backend.sucertificado.com\ProyectoJaverianaDisYEv\bin\System.Web.Mvc.dll
+C:\Users\USUARIO\Documents\repo\Nueva carpeta\Backend.sucertificado.com\ProyectoJaverianaDisYEv\bin\System.Web.Optimization.dll
+C:\Users\USUARIO\Documents\repo\Nueva carpeta\Backend.sucertificado.com\ProyectoJaverianaDisYEv\bin\System.Web.Razor.dll
+C:\Users\USUARIO\Documents\repo\Nueva carpeta\Backend.sucertificado.com\ProyectoJaverianaDisYEv\bin\System.Web.WebPages.Deployment.dll
+C:\Users\USUARIO\Documents\repo\Nueva carpeta\Backend.sucertificado.com\ProyectoJaverianaDisYEv\bin\System.Web.WebPages.dll
+C:\Users\USUARIO\Documents\repo\Nueva carpeta\Backend.sucertificado.com\ProyectoJaverianaDisYEv\bin\System.Web.WebPages.Razor.dll
+C:\Users\USUARIO\Documents\repo\Nueva carpeta\Backend.sucertificado.com\ProyectoJaverianaDisYEv\bin\WebActivatorEx.dll
+C:\Users\USUARIO\Documents\repo\Nueva carpeta\Backend.sucertificado.com\ProyectoJaverianaDisYEv\bin\WebGrease.dll
+C:\Users\USUARIO\Documents\repo\Nueva carpeta\Backend.sucertificado.com\ProyectoJaverianaDisYEv\bin\ProyectoJaverianaDisYEvDAL.dll
+C:\Users\USUARIO\Documents\repo\Nueva carpeta\Backend.sucertificado.com\ProyectoJaverianaDisYEv\bin\ProyectoJaverianaDisYEvBL.pdb
+C:\Users\USUARIO\Documents\repo\Nueva carpeta\Backend.sucertificado.com\ProyectoJaverianaDisYEv\bin\ProyectoJaverianaDisYEvEntities.Entities.pdb
+C:\Users\USUARIO\Documents\repo\Nueva carpeta\Backend.sucertificado.com\ProyectoJaverianaDisYEv\bin\Microsoft.AspNetCore.Cors.xml
+C:\Users\USUARIO\Documents\repo\Nueva carpeta\Backend.sucertificado.com\ProyectoJaverianaDisYEv\bin\Microsoft.AspNetCore.Http.Abstractions.xml
+C:\Users\USUARIO\Documents\repo\Nueva carpeta\Backend.sucertificado.com\ProyectoJaverianaDisYEv\bin\Microsoft.AspNetCore.Http.Extensions.xml
+C:\Users\USUARIO\Documents\repo\Nueva carpeta\Backend.sucertificado.com\ProyectoJaverianaDisYEv\bin\Microsoft.AspNetCore.Http.Features.xml
+C:\Users\USUARIO\Documents\repo\Nueva carpeta\Backend.sucertificado.com\ProyectoJaverianaDisYEv\bin\Microsoft.Extensions.Configuration.Abstractions.xml
+C:\Users\USUARIO\Documents\repo\Nueva carpeta\Backend.sucertificado.com\ProyectoJaverianaDisYEv\bin\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+C:\Users\USUARIO\Documents\repo\Nueva carpeta\Backend.sucertificado.com\ProyectoJaverianaDisYEv\bin\Microsoft.Extensions.FileProviders.Abstractions.xml
+C:\Users\USUARIO\Documents\repo\Nueva carpeta\Backend.sucertificado.com\ProyectoJaverianaDisYEv\bin\Microsoft.Extensions.Logging.Abstractions.xml
+C:\Users\USUARIO\Documents\repo\Nueva carpeta\Backend.sucertificado.com\ProyectoJaverianaDisYEv\bin\Microsoft.Extensions.Options.xml
+C:\Users\USUARIO\Documents\repo\Nueva carpeta\Backend.sucertificado.com\ProyectoJaverianaDisYEv\bin\Microsoft.Extensions.Primitives.xml
+C:\Users\USUARIO\Documents\repo\Nueva carpeta\Backend.sucertificado.com\ProyectoJaverianaDisYEv\bin\Microsoft.IdentityModel.JsonWebTokens.xml
+C:\Users\USUARIO\Documents\repo\Nueva carpeta\Backend.sucertificado.com\ProyectoJaverianaDisYEv\bin\Microsoft.IdentityModel.Logging.xml
+C:\Users\USUARIO\Documents\repo\Nueva carpeta\Backend.sucertificado.com\ProyectoJaverianaDisYEv\bin\Microsoft.IdentityModel.Tokens.xml
+C:\Users\USUARIO\Documents\repo\Nueva carpeta\Backend.sucertificado.com\ProyectoJaverianaDisYEv\bin\Microsoft.Net.Http.Headers.xml
+C:\Users\USUARIO\Documents\repo\Nueva carpeta\Backend.sucertificado.com\ProyectoJaverianaDisYEv\bin\System.Buffers.xml
+C:\Users\USUARIO\Documents\repo\Nueva carpeta\Backend.sucertificado.com\ProyectoJaverianaDisYEv\bin\System.IdentityModel.Tokens.Jwt.xml
+C:\Users\USUARIO\Documents\repo\Nueva carpeta\Backend.sucertificado.com\ProyectoJaverianaDisYEv\bin\System.Memory.xml
+C:\Users\USUARIO\Documents\repo\Nueva carpeta\Backend.sucertificado.com\ProyectoJaverianaDisYEv\bin\System.Net.Http.Formatting.xml
+C:\Users\USUARIO\Documents\repo\Nueva carpeta\Backend.sucertificado.com\ProyectoJaverianaDisYEv\bin\System.Numerics.Vectors.xml
+C:\Users\USUARIO\Documents\repo\Nueva carpeta\Backend.sucertificado.com\ProyectoJaverianaDisYEv\bin\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\USUARIO\Documents\repo\Nueva carpeta\Backend.sucertificado.com\ProyectoJaverianaDisYEv\bin\System.Text.Encodings.Web.xml
+C:\Users\USUARIO\Documents\repo\Nueva carpeta\Backend.sucertificado.com\ProyectoJaverianaDisYEv\bin\System.Web.Http.xml
+C:\Users\USUARIO\Documents\repo\Nueva carpeta\Backend.sucertificado.com\ProyectoJaverianaDisYEv\bin\System.Web.Http.Cors.xml
+C:\Users\USUARIO\Documents\repo\Nueva carpeta\Backend.sucertificado.com\ProyectoJaverianaDisYEv\bin\Newtonsoft.Json.xml
+C:\Users\USUARIO\Documents\repo\Nueva carpeta\Backend.sucertificado.com\ProyectoJaverianaDisYEv\bin\System.Web.Helpers.xml
+C:\Users\USUARIO\Documents\repo\Nueva carpeta\Backend.sucertificado.com\ProyectoJaverianaDisYEv\bin\System.Web.Http.WebHost.xml
+C:\Users\USUARIO\Documents\repo\Nueva carpeta\Backend.sucertificado.com\ProyectoJaverianaDisYEv\bin\System.Web.Mvc.xml
+C:\Users\USUARIO\Documents\repo\Nueva carpeta\Backend.sucertificado.com\ProyectoJaverianaDisYEv\bin\System.Web.Optimization.xml
+C:\Users\USUARIO\Documents\repo\Nueva carpeta\Backend.sucertificado.com\ProyectoJaverianaDisYEv\bin\System.Web.Razor.xml
+C:\Users\USUARIO\Documents\repo\Nueva carpeta\Backend.sucertificado.com\ProyectoJaverianaDisYEv\bin\System.Web.WebPages.xml
+C:\Users\USUARIO\Documents\repo\Nueva carpeta\Backend.sucertificado.com\ProyectoJaverianaDisYEv\bin\System.Web.WebPages.Deployment.xml
+C:\Users\USUARIO\Documents\repo\Nueva carpeta\Backend.sucertificado.com\ProyectoJaverianaDisYEv\bin\System.Web.WebPages.Razor.xml
+C:\Users\USUARIO\Documents\repo\Nueva carpeta\Backend.sucertificado.com\ProyectoJaverianaDisYEv\bin\Antlr3.Runtime.pdb
+C:\Users\USUARIO\Documents\repo\Nueva carpeta\Backend.sucertificado.com\ProyectoJaverianaDisYEv\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\USUARIO\Documents\repo\Nueva carpeta\Backend.sucertificado.com\ProyectoJaverianaDisYEv\bin\ProyectoJaverianaDisYEvDAL.pdb
+C:\Users\USUARIO\Documents\repo\Nueva carpeta\Backend.sucertificado.com\ProyectoJaverianaDisYEv\obj\Debug\ProyectoJaverianaDisYEv.csprojAssemblyReference.cache
+C:\Users\USUARIO\Documents\repo\Nueva carpeta\Backend.sucertificado.com\ProyectoJaverianaDisYEv\obj\Debug\ProyectoJaverianaDisYEv.csproj.CoreCompileInputs.cache
+C:\Users\USUARIO\Documents\repo\Nueva carpeta\Backend.sucertificado.com\ProyectoJaverianaDisYEv\obj\Debug\ProyectoJaverianaDisYEv.csproj.CopyComplete
+C:\Users\USUARIO\Documents\repo\Nueva carpeta\Backend.sucertificado.com\ProyectoJaverianaDisYEv\obj\Debug\ProyectoJaverianaDisYEv.dll
+C:\Users\USUARIO\Documents\repo\Nueva carpeta\Backend.sucertificado.com\ProyectoJaverianaDisYEv\obj\Debug\ProyectoJaverianaDisYEv.pdb

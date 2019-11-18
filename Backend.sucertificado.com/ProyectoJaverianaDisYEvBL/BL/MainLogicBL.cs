@@ -86,17 +86,12 @@ namespace ProyectoJaverianaDisYEvBL.BL
             EstudianteCursoBL estudianteCursoBL = new EstudianteCursoBL();
             estudianteCursoBL.GuardarCalificacion(user, course, totalcorrectasporexamen);
 
-
-
             return resultExam;
         }
         public UserEntity LoginUser(string nameuser, string password)
         {
             UserBL userBL = new UserBL();
             return userBL.LoginUser(nameuser, password);
-
-
-
         }
         public bool CreateCourse(CourseEntity curso)
         {
@@ -164,5 +159,83 @@ namespace ProyectoJaverianaDisYEvBL.BL
             
 
         }
+        public ExamEntity getExambyname(string nombreexamen,int numPreguntas)
+        {
+            ExamBL exambl = new ExamBL();
+            List<ResponseEntity> correctas = new List<ResponseEntity>();
+            List<ResponseEntity> incorrectas = new List<ResponseEntity>();
+
+            QuestionBL questionbl = new QuestionBL();
+            ResponseBL responsebl = new ResponseBL();
+            ExamEntity exam = exambl.getexambyname(nombreexamen,numPreguntas);
+            List<QuestionEntity> questions=questionbl.GetQuestionsByExamID(exam.idexamen,numPreguntas);
+            foreach(QuestionEntity question in questions)
+            {
+                List<ResponseEntity> responses = responsebl.GetResponseFromQuestionID(question.idPregunta);
+                foreach(ResponseEntity res in responses)
+                {
+                    if (res.RespuestaCorrecta > 0)
+                    {
+                        correctas.Add(res);
+                    }
+                    else if (res.RespuestaCorrecta < 1)
+                    {
+                        incorrectas.Add(res);
+                    }
+                }
+                exam.correctas = correctas;
+                exam.incorrectas = incorrectas;
+            }
+
+            return exam;
+
+
+        }
+        //paso 1 para presentar el examen
+        public bool AfiliarEstudianteaExamen(int estudianteID,int ExamenID)
+        {
+            EstudianteCursoBL estudianteCursoBL = new EstudianteCursoBL();
+            CourseBL courseBL = new CourseBL();
+            UserBL userbl = new UserBL();
+            StudenExamBL student = new StudenExamBL();
+            return student.AfiliarEstudianteaExamen(estudianteID, ExamenID);
+        }
+        public bool RealizarPago(int studentid, int examenid)
+        {
+            EstudianteCursoBL estudianteCursoBL = new EstudianteCursoBL();
+            CourseBL courseBL = new CourseBL();
+            UserBL userbl = new UserBL();
+            StudenExamBL student = new StudenExamBL();
+
+            return student.PagarCurso(studentid, examenid);
+
+        }
+        public bool HacerCitaExamen(int userid,int examid,string fecha)
+        {
+            bool pago = false;
+            EstudianteCursoBL estudianteCursoBL = new EstudianteCursoBL();
+            CourseBL courseBL = new CourseBL();
+            UserBL userbl = new UserBL();
+            StudenExamBL student = new StudenExamBL();
+            return student.HacerCitaExamen(userid, examid, fecha);
+         
+ 
+        }
+
+        public bool GuardarCalificacion(int user, int examn, double Puntaje)
+        {
+            EstudianteCursoBL estudianteCursoBL = new EstudianteCursoBL();
+            CourseBL courseBL = new CourseBL();
+            UserBL userbl = new UserBL();
+            StudenExamBL student = new StudenExamBL();
+            return student.GuardarCalificacion(user, examn, Puntaje);
+
+
+        }
+
+
+
+
+
     }
 }

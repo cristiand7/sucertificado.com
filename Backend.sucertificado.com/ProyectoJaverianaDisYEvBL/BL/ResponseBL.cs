@@ -30,5 +30,12 @@ namespace ProyectoJaverianaDisYEvBL.BL
 
         }
 
+        public List<ResponseEntity> GetResponseFromQuestionID(int  QuestionId)
+        {
+            ResponseDAL questionResponseDAL = new ResponseDAL();
+            return questionResponseDAL.GetResponseFromQuestionID(QuestionId);
+
+        }
+
     }
 }

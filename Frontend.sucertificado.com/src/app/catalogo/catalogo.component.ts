@@ -30,33 +30,8 @@ export class CatalogoComponent implements OnInit {
   }
   reg: EstudianteCurso ;
   comprar(curso: Curso){
-    this.reg=new EstudianteCurso()  
-    alert(curso.IdCurso);
-    this.reg.nombreusuario="pp";
-    this.reg.documento="1234";
-    
-    this.reg.nombrecurso=curso.NombreCurso;
-    this.reg.areacurso=curso.AreaCurso
-      
-      
-    this.service.pago(this.reg).subscribe(
-      data => {
-            console.log(data);
-      },
-      error => {
-        console.log(error.error);
-      }
-    );
-
-    this.service.registro(this.reg).subscribe(
-      data => {
-        console.log(data);
-        alert('Compra realizada')
-      },
-      error => {
-        console.log(error.error);
-      }
-    );
+    this.service.add(curso);
+  
 
   }
 }

@@ -1,0 +1,9 @@
+<h1 mat-dialog-title>Item seleccionados</h1>
+<div mat-dialog-content>
+
+
+    <ul>
+        <li *ngFor="let curso of cursos">{{curso.NombreCurso}}</li>
+    </ul>
+    <button (click)="pagar()">Pagar</button>
+</div>

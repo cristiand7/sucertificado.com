@@ -10,30 +10,37 @@ import { CatalogoComponent } from './catalogo/catalogo.component';
 import { ComprasComponent } from './compras/compras.component';
 import { MatButtonModule } from '@angular/material/button';
 
-import {MatCardModule} from '@angular/material/card';
-import {MatGridListModule} from '@angular/material/grid-list';
+import { MatCardModule } from '@angular/material/card';
+import { MatGridListModule } from '@angular/material/grid-list';
 import { LoginComponent } from './login/login.component';
 import { UsuarioService } from './service/usuario.service';
 import { FormsModule } from '@angular/forms';
+import { CarritoComponent } from './carrito/carrito.component';
+import { MatDialogModule } from '@angular/material';
+import { BrowserAnimationsModule } from '@angular/platform-browser/animations';
 @NgModule({
   declarations: [
     AppComponent,
     ExamenFormComponent,
     CatalogoComponent,
     ComprasComponent,
-    LoginComponent
+    LoginComponent,
+    CarritoComponent
   ],
   imports: [
     BrowserModule,
     AppRoutingModule,
-    HttpClientModule  ,
+    HttpClientModule,
     MatCardModule,
     MatGridListModule,
     MatButtonModule,
-    FormsModule
-    
+    FormsModule,
+    MatDialogModule,
+    BrowserAnimationsModule
+
   ],
-  providers: [ExamenService, UsuarioService],  
-  bootstrap: [AppComponent]
+  providers: [ExamenService, UsuarioService],
+  bootstrap: [AppComponent],
+  entryComponents: [CarritoComponent]
 })
 export class AppModule { }

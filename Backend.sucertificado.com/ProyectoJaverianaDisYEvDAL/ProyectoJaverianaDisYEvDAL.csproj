@@ -43,8 +43,10 @@
   <ItemGroup>
     <Compile Include="DAL\CourseDal.cs" />
     <Compile Include="DAL\EstudianteCursoDAL.cs" />
+    <Compile Include="DAL\ExamDAL.cs" />
     <Compile Include="DAL\QuestionDAL.cs" />
     <Compile Include="DAL\ResponseDAL.cs" />
+    <Compile Include="DAL\StudenExamDAL.cs" />
     <Compile Include="DAL\UserDAL.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>

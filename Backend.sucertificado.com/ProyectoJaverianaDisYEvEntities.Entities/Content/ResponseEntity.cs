@@ -16,6 +16,7 @@ namespace ProyectoJaverianaDisYEvEntities.Entities
         public string AreaRespuesta { get; set; }
         public string TipoRespuesta { get; set; }
         public string curso { get; set; }
+        public int IdExamen { get; set; }
 
     }
 }

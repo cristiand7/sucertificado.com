@@ -44,10 +44,12 @@
     <Compile Include="Content\AfiliateStudentCourseEntity.cs" />
     <Compile Include="Content\CourseEntity.cs" />
     <Compile Include="Content\EstudianteCursoEntity.cs" />
+    <Compile Include="Content\ExamEntity.cs" />
     <Compile Include="Content\MakeAppointmentEntity.cs" />
     <Compile Include="Content\MakePaymentEntity.cs" />
     <Compile Include="Content\ResultExamPostRequest.cs" />
     <Compile Include="Content\ResultExamStudentEntity.cs" />
+    <Compile Include="Content\StudentExamEntity.cs" />
     <Compile Include="Content\UserEntity.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <Compile Include="Content\QuestionListResponsesEntity.cs" />

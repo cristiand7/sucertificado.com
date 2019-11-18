@@ -4,12 +4,15 @@ import { Usuario } from '../modelo/usuario';
 import { Tarjeta } from '../modelo/tarjeta';
 import { Utils } from '../share/utils';
 
+
 @Injectable()
 export class UsuarioService {
-  private URL_LOGIN: string = Utils.URL_BACKEND + '/api/values/LoginUser';
+  private URL_LOGIN: string = Utils.URL_BACKEND + '/api/login/authenticate';
+
 
   dataStr = new EventEmitter();
   usuario: string;
+  token: string;
   rol = "";
   authenticated: boolean = false;
   constructor(
@@ -52,8 +55,8 @@ export class UsuarioService {
 
 
   authenticate(credentials) {
-
-    return this.http.get(this.URL_LOGIN + '?username=' + credentials.username + '&password=' + credentials.password);
+    
+    return this.http.post(this.URL_LOGIN,credentials);
   }
 
   getUser() {
@@ -64,6 +67,9 @@ export class UsuarioService {
     this.usuario = usuario;
     this.authenticated = true;
     this.dataStr.emit(this.usuario);
+  }
+  setToken(toke: string) {
+    this.token=toke;
   }
   
   isAuthenticated(){
