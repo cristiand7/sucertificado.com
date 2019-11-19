@@ -1,15 +1,15 @@
 /* You can add global styles to this file, and also import other style files */
+@import '~@angular/material/prebuilt-themes/deeppurple-amber.css';
+@import url('https://fonts.googleapis.com/css?family=Bree+Serif&display=swap');
 
 html, body { height: 100%; }
 body { margin: 0; font-family: Roboto, "Helvetica Neue", sans-serif; }
 
-@import url('https://fonts.googleapis.com/css?family=Bree+Serif&display=swap');
 
 .conftitle {
   font-family: 'Bree Serif', serif;
 }
 
-@import '~@angular/material/prebuilt-themes/deeppurple-amber.css';
 h3{
 color:#000f00;
 font-family: helvetica neue, Arial, sans-serif;
@@ -127,37 +127,42 @@ width: 250px;
   
     /* make sure colors have enough contrast! */
     color: #ffffff;
-    background-color: rgb(120, 120, 120);
+    background-color:  #1e7c17;
 
     font-size: 12pt;
     
 }
 .btnGuardar:hover {
-    color:  rgb(120, 120, 120);
+ 
+    color:   #1e7c17 ;
     border-color: currentColor;
     background-color: white;
+    font-weight: bold;
   }
 form {
     overflow: hidden;
+    padding-left: 35%;
 }
  
 label {
     float: left;
     width: 200px;
     padding-right: 24px;
+    
     margin-bottom: 5px;
     margin-Top: 12px;
+    
 }
  
 input,textarea,select,.list,.myselection {
     float: left;
-    width: calc(100% - 200px);
+    width: calc(60% - 150px);    
 }
  
 button[type='submit'] {
     margin-left: 20%;
     margin-top: 10px;
-    width: calc(50% - 100px);
+    width: calc(30% - 100px);
 }
 
 .btnCategorias{
@@ -179,6 +184,14 @@ button[type='submit'] {
     color: #ffffff;
     background-color: rgb(100, 100, 100);
     font-size: 12px;
+}
+.btnCategorias:hover{
+
+
+  /* make sure colors have enough contrast! */
+  color:  rgb(100, 100, 100);
+  background-color:#ffffff;
+  font-size: 12px;
 }
 .btnEliminar{
   display: inline-block;
@@ -225,4 +238,8 @@ button[type='submit'] {
 .buscador > label {
   margin-left:20px;
   width: 40px;
+}
+
+.btnBlanco{
+  color:  white;
 }

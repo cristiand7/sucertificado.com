@@ -33,7 +33,6 @@ export class CursoService {
     return this.http.post(this.URL_REGISTRO+'/'+reg.nombreusuario+'/'+reg.nombrecurso,reg);
   }
   pago(reg: EstudianteCurso){
-  
     return this.http.post(this.URL_PAGO+'/'+reg.nombreusuario+'/'+reg.nombrecurso,reg);
   }
 
@@ -44,6 +43,11 @@ export class CursoService {
 getCarrito (){
   return this.carrito;
 }
+
+cleanCarrito (){
+  this.carrito=[];
+}
+
 
 
 }

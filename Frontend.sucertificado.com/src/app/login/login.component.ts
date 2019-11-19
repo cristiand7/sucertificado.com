@@ -27,6 +27,8 @@ export class LoginComponent implements OnInit {
         console.log(response);
         this.service.setUser(this.credentials.username);
         this.service.setToken(response+'');
+
+        this.getUser();
         this.router.navigate(['/catalogo'])
 
       }, error => {
@@ -34,6 +36,15 @@ export class LoginComponent implements OnInit {
         alert('Usuario o contraseña invalido');
       });
 
+  }
+  getUser(){
+
+    this.service.findUser(this.credentials.username)
+    .subscribe(response => {
+      this.service.setCurrentUser(response);
+    }, error => {
+      console.log(error);     
+    });
   }
 
   logout() {

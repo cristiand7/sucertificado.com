@@ -1,15 +1,18 @@
 
+
 <div class="login">
+        
+<br/>    
+<br/>    
+                <h1 style="text-align: center">Inicio de Sesión</h1>        
     <form (submit)="login()">
-<br/>    
-<br/>    
 <br/>    
             <div class="row mt-2 w-100">
                     <div class="col-3">
-    <label for="usuario" >usuario</label>
+    <label for="usuario"  >usuario</label>
                     </div>
 <div class="col-9">
-    <input type="text" name="usuario" id="usuario" size="10"
+    <input type="text" name="usuario" autofocus id="usuario" size="10"
     [(ngModel)]="credentials.username"/>
 </div>
 
@@ -25,7 +28,7 @@
 </div>
 <br/> 
 </div>
-    <button type="submit" name="enviar">Iniciar Sesión</button>
+    <button type="submit" mat-button name="enviar" class="btnCategorias" ><b>Ingresar</b> </button>
     </form>
 
    

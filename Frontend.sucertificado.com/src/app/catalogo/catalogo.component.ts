@@ -2,6 +2,7 @@ import { Component, OnInit } from '@angular/core';
 import { CursoService } from '../service/curso.service';
 import { Curso } from '../modelo/curso';
 import { EstudianteCurso } from '../modelo/estudiante-curso';
+import { UsuarioService } from '../service/usuario.service';
 
 @Component({
   selector: 'app-catalogo',
@@ -10,17 +11,19 @@ import { EstudianteCurso } from '../modelo/estudiante-curso';
 })
 export class CatalogoComponent implements OnInit {
 
-  cursos: Curso[]=[];
-  constructor(private service: CursoService) { }
+  path: string[]= ["assets/0.png"]
+  
+  cursos: Curso[] = [];
+  constructor(private service: CursoService, private usuarioService: UsuarioService) { }
 
   ngOnInit() {
     this.loadCursos();
   }
 
-  loadCursos(){
+  loadCursos() {
     this.service.findAll().subscribe(
       data => {
-       this.cursos=data;
+        this.cursos = data;
         console.log(data);
       },
       error => {
@@ -28,10 +31,14 @@ export class CatalogoComponent implements OnInit {
       }
     );
   }
-  reg: EstudianteCurso ;
-  comprar(curso: Curso){
-    this.service.add(curso);
-  
-
+  reg: EstudianteCurso;
+  comprar(curso: Curso) {
+    if (this.usuarioService.isAuthenticated()) {
+      this.service.add(curso);
+      alert('Curso ' + curso.NombreCurso + ' ha sido agreado a tu carrito');
+    }
+    else {
+      alert('Debes iniciar sesión para continuar ');
+    }
   }
 }

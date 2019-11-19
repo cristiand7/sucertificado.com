@@ -34,20 +34,20 @@
     <div class="col">
       <a [routerLink]="['/catalogo']" class="navbar-brand">Catalogo</a>
     </div>
-    <div class="col">
-      <a [routerLink]="['/examen']" class="navbar-brand">Examen</a>
+    <div class="col" *ngIf="authenticated">
+      <a [routerLink]="['/perfil']" class="navbar-brand">Mi perfil</a>
     </div>
     <div class="col" *ngIf="!authenticated">
-      <a [routerLink]="['/login']" class="navbar-brand">Login
+      <a [routerLink]="['/login']" class="navbar-brand" > Login
       </a>
     </div>
     
     <div class="col" *ngIf="authenticated">
-      <a (click)="verCarrito()" class="navbar-brand">Carrito    </a>
+      <a (click)="verCarrito()" class="navbar-brand active " style="color: white;">Carrito    </a>
     </div>
     
     <div class="col" *ngIf="authenticated">
-      <a (click)="logout()"  class="navbar-brand">Salir
+      <a (click)="logout()"  class="navbar-brand" style="color: white;">Salir
       </a>
     </div>
 

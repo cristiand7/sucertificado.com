@@ -1,13 +1,11 @@
 import { Tarjeta } from "./tarjeta";
 export class Usuario {
-    idUsuario: number;
+    IdPersona: number;
     nombre: string;
-    usuario: string;
-    clave: string;
-    email: string;
-    telefono: number;
-    calificacion: number;
-    fechaRegistro: Date;
+    apellido: string;
+    rol: string;
+    documento: string;
+    Usuario: string;
     tarjetas:Tarjeta[];
 
     constructor(){

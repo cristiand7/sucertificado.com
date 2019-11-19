@@ -9,9 +9,11 @@ import { Utils } from '../share/utils';
 export class UsuarioService {
   private URL_LOGIN: string = Utils.URL_BACKEND + '/api/login/authenticate';
 
+  private URL_USER: string = Utils.URL_BACKEND + '/api/user/getUserByUsername';
 
   dataStr = new EventEmitter();
   usuario: string;
+  currentUser: Usuario;
   token: string;
   rol = "";
   authenticated: boolean = false;
@@ -26,14 +28,8 @@ export class UsuarioService {
   findById(id: number) {
 
   }
-  findUser() {
-    return this.http.get<Usuario>('http://localhost:8080/usuario/now', {
-      headers: {
-        'Content-Type': 'application/json'
-      },
-      withCredentials: true
-    }
-      , );
+  findUser(user: string) {
+    return this.http.get<Usuario>(this.URL_USER+'/'+ user);
 
   }
   addUsuario(usuario: Usuario) {
@@ -67,6 +63,7 @@ export class UsuarioService {
     this.usuario = usuario;
     this.authenticated = true;
     this.dataStr.emit(this.usuario);
+    
   }
   setToken(toke: string) {
     this.token=toke;
@@ -93,4 +90,10 @@ export class UsuarioService {
         , );
   }
 
+  setCurrentUser(usuario: Usuario){
+    this.currentUser=usuario;
+  }
+  getCurrentUser(){
+    return this.currentUser;
+  }
 }

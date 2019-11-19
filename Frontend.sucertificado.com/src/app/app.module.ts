@@ -18,6 +18,7 @@ import { FormsModule } from '@angular/forms';
 import { CarritoComponent } from './carrito/carrito.component';
 import { MatDialogModule } from '@angular/material';
 import { BrowserAnimationsModule } from '@angular/platform-browser/animations';
+import { PerfilComponent } from './perfil/perfil.component';
 @NgModule({
   declarations: [
     AppComponent,
@@ -25,7 +26,8 @@ import { BrowserAnimationsModule } from '@angular/platform-browser/animations';
     CatalogoComponent,
     ComprasComponent,
     LoginComponent,
-    CarritoComponent
+    CarritoComponent,
+    PerfilComponent
   ],
   imports: [
     BrowserModule,
