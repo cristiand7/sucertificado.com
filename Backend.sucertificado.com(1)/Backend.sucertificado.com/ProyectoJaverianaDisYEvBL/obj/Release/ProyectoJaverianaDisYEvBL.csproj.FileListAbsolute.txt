@@ -1,0 +1,11 @@
+C:\Users\jcorteso\Downloads\DiseñoProyecto\sucertificado.com-master\Backend.sucertificado.com\ProyectoJaverianaDisYEvBL\bin\Release\ProyectoJaverianaDisYEvBL.dll
+C:\Users\jcorteso\Downloads\DiseñoProyecto\sucertificado.com-master\Backend.sucertificado.com\ProyectoJaverianaDisYEvBL\bin\Release\ProyectoJaverianaDisYEvBL.pdb
+C:\Users\jcorteso\Downloads\DiseñoProyecto\sucertificado.com-master\Backend.sucertificado.com\ProyectoJaverianaDisYEvBL\bin\Release\ProyectoJaverianaDisYEvDAL.dll
+C:\Users\jcorteso\Downloads\DiseñoProyecto\sucertificado.com-master\Backend.sucertificado.com\ProyectoJaverianaDisYEvBL\bin\Release\ProyectoJaverianaDisYEvEntities.Entities.dll
+C:\Users\jcorteso\Downloads\DiseñoProyecto\sucertificado.com-master\Backend.sucertificado.com\ProyectoJaverianaDisYEvBL\bin\Release\ProyectoJaverianaDisYEvDAL.pdb
+C:\Users\jcorteso\Downloads\DiseñoProyecto\sucertificado.com-master\Backend.sucertificado.com\ProyectoJaverianaDisYEvBL\bin\Release\ProyectoJaverianaDisYEvEntities.Entities.pdb
+C:\Users\jcorteso\Downloads\DiseñoProyecto\sucertificado.com-master\Backend.sucertificado.com\ProyectoJaverianaDisYEvBL\obj\Release\ProyectoJaverianaDisYEvBL.csprojAssemblyReference.cache
+C:\Users\jcorteso\Downloads\DiseñoProyecto\sucertificado.com-master\Backend.sucertificado.com\ProyectoJaverianaDisYEvBL\obj\Release\ProyectoJaverianaDisYEvBL.csproj.CoreCompileInputs.cache
+C:\Users\jcorteso\Downloads\DiseñoProyecto\sucertificado.com-master\Backend.sucertificado.com\ProyectoJaverianaDisYEvBL\obj\Release\ProyectoJaverianaDisYEvBL.csproj.CopyComplete
+C:\Users\jcorteso\Downloads\DiseñoProyecto\sucertificado.com-master\Backend.sucertificado.com\ProyectoJaverianaDisYEvBL\obj\Release\ProyectoJaverianaDisYEvBL.dll
+C:\Users\jcorteso\Downloads\DiseñoProyecto\sucertificado.com-master\Backend.sucertificado.com\ProyectoJaverianaDisYEvBL\obj\Release\ProyectoJaverianaDisYEvBL.pdb

@@ -1,0 +1,5 @@
+C:\Users\jcorteso\Downloads\DiseñoProyecto\sucertificado.com-master\Backend.sucertificado.com\ProyectoJaverianaDisYEvEntities.Entities\bin\Release\ProyectoJaverianaDisYEvEntities.Entities.dll
+C:\Users\jcorteso\Downloads\DiseñoProyecto\sucertificado.com-master\Backend.sucertificado.com\ProyectoJaverianaDisYEvEntities.Entities\bin\Release\ProyectoJaverianaDisYEvEntities.Entities.pdb
+C:\Users\jcorteso\Downloads\DiseñoProyecto\sucertificado.com-master\Backend.sucertificado.com\ProyectoJaverianaDisYEvEntities.Entities\obj\Release\ProyectoJaverianaDisYEvEntities.csproj.CoreCompileInputs.cache
+C:\Users\jcorteso\Downloads\DiseñoProyecto\sucertificado.com-master\Backend.sucertificado.com\ProyectoJaverianaDisYEvEntities.Entities\obj\Release\ProyectoJaverianaDisYEvEntities.Entities.dll
+C:\Users\jcorteso\Downloads\DiseñoProyecto\sucertificado.com-master\Backend.sucertificado.com\ProyectoJaverianaDisYEvEntities.Entities\obj\Release\ProyectoJaverianaDisYEvEntities.Entities.pdb

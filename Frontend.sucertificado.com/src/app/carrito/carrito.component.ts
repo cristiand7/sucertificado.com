@@ -45,6 +45,11 @@ export class CarritoComponent implements OnInit {
           console.log(data);
         },
         error => {
+          if (error.reponse == 401){
+
+            this.usuarioService.refreshToken();
+            this.pagar();
+          }
           console.log(error.error);
         }
       );

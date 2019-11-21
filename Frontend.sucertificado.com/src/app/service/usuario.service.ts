@@ -29,7 +29,14 @@ export class UsuarioService {
 
   }
   findUser(user: string) {
-    return this.http.get<Usuario>(this.URL_USER+'/'+ user);
+    const httpOptions = {
+      headers: new HttpHeaders({
+        'Content-Type': 'application/json',
+        'Authorization': 'Bearer ' + this.token
+      })
+    };
+
+    return this.http.get<Usuario>(this.URL_USER + '/' + user, httpOptions);
 
   }
   addUsuario(usuario: Usuario) {
@@ -51,8 +58,20 @@ export class UsuarioService {
 
 
   authenticate(credentials) {
-    
-    return this.http.post(this.URL_LOGIN,credentials);
+    if (this.credentials.username=='') this.credentials=credentials;
+    return this.http.post(this.URL_LOGIN, credentials);
+  }
+
+  credentials = { username: '', password: '' };
+  refreshToken() {
+    this.authenticate(this.credentials)
+      .subscribe(response => {
+        console.log(response);
+        this.setToken(response + '');
+      }, error => {
+        console.log(error);
+      });
+
   }
 
   getUser() {
@@ -63,13 +82,17 @@ export class UsuarioService {
     this.usuario = usuario;
     this.authenticated = true;
     this.dataStr.emit(this.usuario);
-    
+
   }
-  setToken(toke: string) {
-    this.token=toke;
+  setToken(token: string) {
+    this.token = token;
   }
-  
-  isAuthenticated(){
+
+  getToken() {
+    return this.token;
+  }
+
+  isAuthenticated() {
     return this.authenticated;
   }
 
@@ -90,10 +113,11 @@ export class UsuarioService {
         , );
   }
 
-  setCurrentUser(usuario: Usuario){
-    this.currentUser=usuario;
+  setCurrentUser(usuario: Usuario) {
+    this.currentUser = usuario;
   }
-  getCurrentUser(){
+  getCurrentUser() {
     return this.currentUser;
   }
+
 }
