@@ -9,22 +9,22 @@
       <h1 class="conftitle">SuCertificado.com</h1>
 
     </div>
-    <div class="col-2 pull-right" *ngIf="!authenticated">
-      <br />
-      <br />
-      ¿Aún no tienes cuenta?
-      <a><u>Regístrate</u>  </a>
-  
-     
-    </div>
-    <div *ngIf="authenticated" class="col-2 pull-right">
-        <br />
-        <br />
-      Hola, {{usuario}} 
-    </div>
+    
     
   </div>
+  <div class="col-2 pull-right" *ngIf="!authenticated">
+    <br />
+    <br />
+    ¿Aún no tienes cuenta?
+    <a><u>Regístrate</u>  </a>
 
+   
+  </div>
+  <div *ngIf="authenticated" class="col-2 pull-right">
+      <br />
+      <br />
+    Hola, {{usuario}} 
+  </div>
   
 
 </div>
