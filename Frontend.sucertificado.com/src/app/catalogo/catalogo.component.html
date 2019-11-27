@@ -1,18 +1,18 @@
-<h1>Lista de cursos</h1>
-<mat-grid-list cols="3" rowHeight="1:1.3">
+<h1>Catálogo de cursos y examenes</h1>
+<mat-grid-list cols="3" rowHeight="1:1.1">
   <mat-grid-tile *ngFor="let curso of cursos;index as i">
     <mat-card class="example-card">
       <mat-card-header>
         <div mat-card-avatar class="example-header-image"></div>
         <mat-card-title>{{curso.NombreCurso}}</mat-card-title>
-        <mat-card-subtitle>{{curso.AreaCurso}} {{i}}</mat-card-subtitle>
+        <mat-card-subtitle>{{curso.AreaCurso}} </mat-card-subtitle>
       </mat-card-header>
-      <img mat-card-image [src]="path[0]" alt="Examen" width="250px" height="200px">
+      <img mat-card-image [src]="path[i]" alt="Examen" width="200px" height="250px">
 
 
       <mat-card-content>
-        <p>
-          {{curso.DescripcionCurso}}
+        <p align="justify">
+          {{comentarios[i]}}
         </p>
       </mat-card-content>
 

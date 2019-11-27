@@ -17,6 +17,7 @@ export class CarritoComponent implements OnInit {
 
   cursos: Curso[] = [];
   user: Usuario;
+  total: number;
   constructor(@Inject(MAT_DIALOG_DATA) public data: DialogData, private service: CursoService, private usuarioService: UsuarioService,
   public dialogRef: MatDialogRef<CarritoComponent>) { }
 
@@ -27,6 +28,7 @@ export class CarritoComponent implements OnInit {
 
   loadCursos() {
     this.cursos = this.service.getCarrito();
+    this.total=49.99*this.cursos.length;
   }
   pagar() {
     
@@ -37,10 +39,10 @@ export class CarritoComponent implements OnInit {
       reg.documento = this.user.documento+'';
 
       reg.nombrecurso = curso.IdCurso+'';
-      reg.areacurso = curso.AreaCurso
+      reg.areacurso = curso.AreaCurso;
 
 
-      this.service.pago(reg).subscribe(
+      this.service.registro(reg).subscribe(
         data => {
           console.log(data);
         },
@@ -54,7 +56,7 @@ export class CarritoComponent implements OnInit {
         }
       );
 
-      this.service.registro(reg).subscribe(
+      this.service.pago(reg).subscribe(
         data => {
           console.log(data);
         },
