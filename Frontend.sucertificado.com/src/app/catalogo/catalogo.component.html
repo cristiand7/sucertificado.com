@@ -1,5 +1,5 @@
 <h1>Catálogo de cursos y examenes</h1>
-<mat-grid-list cols="3" rowHeight="1:1.1">
+<mat-grid-list cols="3" rowHeight="2:3">
   <mat-grid-tile *ngFor="let curso of cursos;index as i">
     <mat-card class="example-card">
       <mat-card-header>
@@ -7,7 +7,7 @@
         <mat-card-title>{{curso.NombreCurso}}</mat-card-title>
         <mat-card-subtitle>{{curso.AreaCurso}} </mat-card-subtitle>
       </mat-card-header>
-      <img mat-card-image [src]="path[i]" alt="Examen" width="200px" height="250px">
+      <img mat-card-image [src]="path[i]" alt="Examen" width="200px" height="200px">
 
 
       <mat-card-content>
